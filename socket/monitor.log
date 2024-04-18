@@ -1,0 +1,270 @@
+[2024-04-18 14:28:03] CPU Usage: 0.64%
+[2024-04-18 14:28:03] Total Memory: 270084333568 bytes, Used Memory: 85273432064 bytes, Free Memory: 184810901504 bytes
+[2024-04-18 14:28:03] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:03] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:03] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:28:03] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:28:03] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:28:03] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:28:03] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:28:03] Device: sdh4,Total: 111025408 bytes, Used: 51125504 bytes, Free: 59899904 bytes
+[2024-04-18 14:28:08] CPU Usage: 1.70%
+[2024-04-18 14:28:08] Total Memory: 270084333568 bytes, Used Memory: 85215121408 bytes, Free Memory: 184869212160 bytes
+[2024-04-18 14:28:08] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:08] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:08] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:28:08] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:28:08] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:28:08] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:28:08] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:28:08] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:28:13] CPU Usage: 1.63%
+[2024-04-18 14:28:13] Total Memory: 270084333568 bytes, Used Memory: 85210677248 bytes, Free Memory: 184873656320 bytes
+[2024-04-18 14:28:13] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:13] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:13] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:28:13] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:28:13] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:28:13] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:28:13] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:28:13] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:28:18] CPU Usage: 1.68%
+[2024-04-18 14:28:18] Total Memory: 270084333568 bytes, Used Memory: 85214347264 bytes, Free Memory: 184869986304 bytes
+[2024-04-18 14:28:18] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:18] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:18] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:28:18] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:28:18] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:28:18] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:28:18] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:28:18] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:28:23] CPU Usage: 1.66%
+[2024-04-18 14:28:23] Total Memory: 270084333568 bytes, Used Memory: 85216948224 bytes, Free Memory: 184867385344 bytes
+[2024-04-18 14:28:23] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:23] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:23] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:28:23] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:28:23] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:28:23] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:28:23] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:28:23] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:28:33] CPU Usage: 0.64%
+[2024-04-18 14:28:33] Total Memory: 270084333568 bytes, Used Memory: 85214359552 bytes, Free Memory: 184869974016 bytes
+[2024-04-18 14:28:33] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:33] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:33] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:28:33] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:28:33] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:28:33] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:28:33] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:28:33] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:28:38] CPU Usage: 1.65%
+[2024-04-18 14:28:38] Total Memory: 270084333568 bytes, Used Memory: 85225529344 bytes, Free Memory: 184858804224 bytes
+[2024-04-18 14:28:38] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:38] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:38] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:28:38] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:28:38] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:28:38] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:28:38] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:28:38] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:28:43] CPU Usage: 1.65%
+[2024-04-18 14:28:43] Total Memory: 270084333568 bytes, Used Memory: 85227315200 bytes, Free Memory: 184857018368 bytes
+[2024-04-18 14:28:43] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:43] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:43] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:28:43] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:28:43] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:28:43] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:28:43] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:28:43] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:28:48] CPU Usage: 1.66%
+[2024-04-18 14:28:48] Total Memory: 270084333568 bytes, Used Memory: 85235871744 bytes, Free Memory: 184848461824 bytes
+[2024-04-18 14:28:48] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:48] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:48] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:28:48] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:28:48] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:28:48] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:28:48] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:28:48] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:28:53] CPU Usage: 1.66%
+[2024-04-18 14:28:53] Total Memory: 270084333568 bytes, Used Memory: 85219512320 bytes, Free Memory: 184864821248 bytes
+[2024-04-18 14:28:53] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:53] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:53] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:28:53] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:28:53] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:28:53] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:28:53] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:28:53] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:28:58] CPU Usage: 1.70%
+[2024-04-18 14:28:58] Total Memory: 270084333568 bytes, Used Memory: 85224763392 bytes, Free Memory: 184859570176 bytes
+[2024-04-18 14:28:58] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:58] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:28:58] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:28:58] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:28:58] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:28:58] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:28:58] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:28:58] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:29:03] CPU Usage: 1.67%
+[2024-04-18 14:29:03] Total Memory: 270084333568 bytes, Used Memory: 85257760768 bytes, Free Memory: 184826572800 bytes
+[2024-04-18 14:29:03] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:29:03] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:29:03] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:29:03] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:29:03] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:29:03] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:29:03] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:29:03] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:29:08] CPU Usage: 1.65%
+[2024-04-18 14:29:08] Total Memory: 270084333568 bytes, Used Memory: 85213663232 bytes, Free Memory: 184870670336 bytes
+[2024-04-18 14:29:08] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:29:08] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:29:08] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:29:08] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:29:08] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:29:08] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:29:08] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:29:08] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:29:13] CPU Usage: 1.64%
+[2024-04-18 14:29:13] Total Memory: 270084333568 bytes, Used Memory: 85214502912 bytes, Free Memory: 184869830656 bytes
+[2024-04-18 14:29:13] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:29:13] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:29:13] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:29:13] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:29:13] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:29:13] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:29:13] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:29:13] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:29:18] CPU Usage: 1.69%
+[2024-04-18 14:29:18] Total Memory: 270084333568 bytes, Used Memory: 85208907776 bytes, Free Memory: 184875425792 bytes
+[2024-04-18 14:29:18] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:29:18] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:29:18] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:29:18] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:29:18] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:29:18] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:29:18] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:29:18] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:29:23] CPU Usage: 1.65%
+[2024-04-18 14:29:23] Total Memory: 270084333568 bytes, Used Memory: 85249638400 bytes, Free Memory: 184834695168 bytes
+[2024-04-18 14:29:23] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:29:23] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:29:23] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:29:23] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:29:23] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:29:23] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:29:23] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:29:23] Device: sdh4,Total: 111025408 bytes, Used: 51125632 bytes, Free: 59899776 bytes
+[2024-04-18 14:42:53] CPU Usage: 0.64%
+[2024-04-18 14:42:53] Total Memory: 270084333568 bytes, Used Memory: 85300211712 bytes, Free Memory: 184784121856 bytes
+[2024-04-18 14:42:53] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:42:53] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:42:53] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:42:53] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:42:53] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:42:53] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:42:53] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:42:53] Device: sdh4,Total: 111025024 bytes, Used: 51125888 bytes, Free: 59899136 bytes
+[2024-04-18 14:42:58] CPU Usage: 1.77%
+[2024-04-18 14:42:58] Total Memory: 270084333568 bytes, Used Memory: 85224382464 bytes, Free Memory: 184859951104 bytes
+[2024-04-18 14:42:58] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:42:58] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:42:58] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:42:58] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:42:58] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:42:58] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:42:58] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:42:58] Device: sdh4,Total: 111025024 bytes, Used: 51125888 bytes, Free: 59899136 bytes
+[2024-04-18 14:43:03] CPU Usage: 1.70%
+[2024-04-18 14:43:03] Total Memory: 270084333568 bytes, Used Memory: 85213028352 bytes, Free Memory: 184871305216 bytes
+[2024-04-18 14:43:03] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:43:03] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:43:03] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:43:03] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:43:03] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:43:03] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:43:03] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:43:03] Device: sdh4,Total: 111025024 bytes, Used: 51125888 bytes, Free: 59899136 bytes
+[2024-04-18 14:44:44] CPU Usage: 0.64%
+[2024-04-18 14:44:44] Total Memory: 270084333568 bytes, Used Memory: 85194395648 bytes, Free Memory: 184889937920 bytes
+[2024-04-18 14:44:44] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:44:44] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:44:44] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:44:44] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:44:44] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:44:44] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:44:44] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:44:44] Device: sdh4,Total: 111024896 bytes, Used: 51125888 bytes, Free: 59899008 bytes
+[2024-04-18 14:44:49] CPU Usage: 1.71%
+[2024-04-18 14:44:49] Total Memory: 270084333568 bytes, Used Memory: 85195534336 bytes, Free Memory: 184888799232 bytes
+[2024-04-18 14:44:49] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:44:49] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:44:49] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:44:49] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:44:49] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:44:49] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:44:49] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:44:49] Device: sdh4,Total: 111024896 bytes, Used: 51125888 bytes, Free: 59899008 bytes
+[2024-04-18 14:45:40] CPU Usage: 0.64%
+[2024-04-18 14:45:40] Total Memory: 270084333568 bytes, Used Memory: 85245030400 bytes, Free Memory: 184839303168 bytes
+[2024-04-18 14:45:40] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:45:40] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:45:40] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:45:40] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:45:40] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:45:40] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:45:40] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:45:40] Device: sdh4,Total: 111024768 bytes, Used: 51125888 bytes, Free: 59898880 bytes
+[2024-04-18 14:45:45] CPU Usage: 1.65%
+[2024-04-18 14:45:45] Total Memory: 270084333568 bytes, Used Memory: 85242630144 bytes, Free Memory: 184841703424 bytes
+[2024-04-18 14:45:45] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:45:45] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:45:45] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:45:45] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:45:45] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:45:45] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:45:45] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:45:45] Device: sdh4,Total: 111024768 bytes, Used: 51125888 bytes, Free: 59898880 bytes
+[2024-04-18 14:45:50] CPU Usage: 1.64%
+[2024-04-18 14:45:50] Total Memory: 270084333568 bytes, Used Memory: 85248925696 bytes, Free Memory: 184835407872 bytes
+[2024-04-18 14:45:50] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:45:50] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:45:50] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:45:50] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:45:50] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:45:50] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:45:50] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:45:50] Device: sdh4,Total: 111024768 bytes, Used: 51125888 bytes, Free: 59898880 bytes
+[2024-04-18 14:45:55] CPU Usage: 1.69%
+[2024-04-18 14:45:55] Total Memory: 270084333568 bytes, Used Memory: 85245513728 bytes, Free Memory: 184838819840 bytes
+[2024-04-18 14:45:55] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:45:55] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:45:55] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:45:55] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:45:55] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:45:55] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:45:55] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:45:55] Device: sdh4,Total: 111024768 bytes, Used: 51125888 bytes, Free: 59898880 bytes
+[2024-04-18 14:46:00] CPU Usage: 1.69%
+[2024-04-18 14:46:00] Total Memory: 270084333568 bytes, Used Memory: 85244346368 bytes, Free Memory: 184839987200 bytes
+[2024-04-18 14:46:00] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:46:00] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:46:00] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:46:00] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:46:00] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:46:00] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:46:00] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:46:00] Device: sdh4,Total: 111024896 bytes, Used: 51125888 bytes, Free: 59899008 bytes
+[2024-04-18 14:46:05] CPU Usage: 1.66%
+[2024-04-18 14:46:05] Total Memory: 270084333568 bytes, Used Memory: 85244817408 bytes, Free Memory: 184839516160 bytes
+[2024-04-18 14:46:05] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:46:05] Device: nvme0n1p1,Total: 523248 bytes, Used: 14716 bytes, Free: 508532 bytes
+[2024-04-18 14:46:05] Device: sde,Total: 15501595164 bytes, Used: 24100924 bytes, Free: 15477494240 bytes
+[2024-04-18 14:46:05] Device: sda3,Total: 15501272600 bytes, Used: 32035480 bytes, Free: 15469237120 bytes
+[2024-04-18 14:46:05] Device: sdb3,Total: 15501272600 bytes, Used: 19446936 bytes, Free: 15481825664 bytes
+[2024-04-18 14:46:05] Device: sdc3,Total: 15501272600 bytes, Used: 19447132 bytes, Free: 15481825468 bytes
+[2024-04-18 14:46:05] Device: sdd3,Total: 15501272600 bytes, Used: 19441560 bytes, Free: 15481831040 bytes
+[2024-04-18 14:46:05] Device: sdh4,Total: 111024896 bytes, Used: 51125888 bytes, Free: 59899008 bytes
