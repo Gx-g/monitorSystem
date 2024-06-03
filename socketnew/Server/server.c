@@ -32,6 +32,15 @@ void deserialize_system_info(char *buffer, int length, SystemInfo *info) {
     // offset += sizeof(struct in_addr);
 }
 
+int decrypt(char *ciphertext, int ciphertext_len, char *plaintext){
+    int plaintext_len = ciphertext_len;    
+    plaintext = ciphertext;
+
+    //解密操作...
+
+    return plaintext_len;
+}
+
 void *handle_client(void *arg) {
 
     Args args = *((Args *)arg);
@@ -63,6 +72,13 @@ void *handle_client(void *arg) {
          // 解析数据为结构体
          printf("接受到的字节数：%ld",valread);
         //void * nowbuffer = malloc(valread);
+
+        //数据解密
+        char plaintext[1024]={0};
+        int plaintext_len =  decrypt(buffer, valread, plaintext);
+        printf("79接受到的字节数：%d",plaintext_len);
+
+        //反序列化
         deserialize_system_info(buffer, valread, &system_info);
         //free(nowbuffer);
 

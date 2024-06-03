@@ -72,9 +72,17 @@ Args args;
 
 
 void init_mysql();//数据库
+
 void Serveraccept();//接受客户端建立连接的请求
+
 void addfd(int epollfd, int fd);//添加新的事件到内核事件列表中
+
 int setnonblocking(int sockfd);//设置IO为非阻塞模式
+
 void *handle_client(void *arg); //接收客户端发送的信息
+
 void deserialize_system_info(char *buffer, int length, SystemInfo *info);//// 将字节流解析为结构体数据
+
+int decrypt(char *ciphertext, int ciphertext_len, char *plaintext);//解密
+ 
 #endif
