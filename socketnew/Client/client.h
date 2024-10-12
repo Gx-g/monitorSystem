@@ -57,5 +57,5 @@ void get_disk_usage(SystemInfo *system_info);//获取磁盘使用情况
 
 void write_log(const char *log_file, const char *message);// 写日志
 
-int encrypt(char *plaintext, int plaintext_len, char *ciphertext);//加密
+int encrypt(char *plaintext, int plaintext_len, char **ciphertext);//加密
 #endif

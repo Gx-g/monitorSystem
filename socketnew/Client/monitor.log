@@ -8856,3 +8856,2047 @@
 [2024-06-02 21:59:31] Total Memory: 257572 MB, Used Memory: 18794 MB, Free Memory: 238777 MB
 [2024-06-02 21:59:31] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
 [2024-06-02 21:59:31] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:01:09] CPU Usage: 0.18%
+[2024-06-06 14:01:09] Total Memory: 257572 MB, Used Memory: 11044 MB, Free Memory: 246528 MB
+[2024-06-06 14:01:09] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:01:09] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:01:19] CPU Usage: 0.13%
+[2024-06-06 14:01:19] Total Memory: 257572 MB, Used Memory: 11064 MB, Free Memory: 246508 MB
+[2024-06-06 14:01:19] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:01:19] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:01:29] CPU Usage: 0.06%
+[2024-06-06 14:01:29] Total Memory: 257572 MB, Used Memory: 11063 MB, Free Memory: 246508 MB
+[2024-06-06 14:01:29] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:01:29] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:04:47] CPU Usage: 0.18%
+[2024-06-06 14:04:47] Total Memory: 257572 MB, Used Memory: 11105 MB, Free Memory: 246466 MB
+[2024-06-06 14:04:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:04:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:04:57] CPU Usage: 0.10%
+[2024-06-06 14:04:57] Total Memory: 257572 MB, Used Memory: 11115 MB, Free Memory: 246456 MB
+[2024-06-06 14:04:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:04:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:05:07] CPU Usage: 0.07%
+[2024-06-06 14:05:07] Total Memory: 257572 MB, Used Memory: 11077 MB, Free Memory: 246494 MB
+[2024-06-06 14:05:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:05:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:06:29] CPU Usage: 0.18%
+[2024-06-06 14:06:29] Total Memory: 257572 MB, Used Memory: 11054 MB, Free Memory: 246518 MB
+[2024-06-06 14:06:29] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:06:29] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:06:39] CPU Usage: 0.08%
+[2024-06-06 14:06:39] Total Memory: 257572 MB, Used Memory: 11046 MB, Free Memory: 246526 MB
+[2024-06-06 14:06:39] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:06:39] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:06:49] CPU Usage: 0.10%
+[2024-06-06 14:06:49] Total Memory: 257572 MB, Used Memory: 11039 MB, Free Memory: 246532 MB
+[2024-06-06 14:06:49] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:06:49] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:10:25] CPU Usage: 0.18%
+[2024-06-06 14:10:25] Total Memory: 257572 MB, Used Memory: 11117 MB, Free Memory: 246455 MB
+[2024-06-06 14:10:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:10:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:10:35] CPU Usage: 0.08%
+[2024-06-06 14:10:35] Total Memory: 257572 MB, Used Memory: 11123 MB, Free Memory: 246448 MB
+[2024-06-06 14:10:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:10:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:11:56] CPU Usage: 0.18%
+[2024-06-06 14:11:56] Total Memory: 257572 MB, Used Memory: 11149 MB, Free Memory: 246422 MB
+[2024-06-06 14:11:56] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:11:56] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:12:06] CPU Usage: 0.08%
+[2024-06-06 14:12:06] Total Memory: 257572 MB, Used Memory: 11155 MB, Free Memory: 246417 MB
+[2024-06-06 14:12:06] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:12:06] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:12:16] CPU Usage: 0.09%
+[2024-06-06 14:12:16] Total Memory: 257572 MB, Used Memory: 11168 MB, Free Memory: 246404 MB
+[2024-06-06 14:12:16] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:12:16] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:12:26] CPU Usage: 0.09%
+[2024-06-06 14:12:26] Total Memory: 257572 MB, Used Memory: 11167 MB, Free Memory: 246404 MB
+[2024-06-06 14:12:26] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:12:26] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:33:58] CPU Usage: 0.18%
+[2024-06-06 14:33:58] Total Memory: 257572 MB, Used Memory: 11090 MB, Free Memory: 246481 MB
+[2024-06-06 14:33:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:33:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:34:08] CPU Usage: 0.09%
+[2024-06-06 14:34:08] Total Memory: 257572 MB, Used Memory: 11096 MB, Free Memory: 246475 MB
+[2024-06-06 14:34:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:34:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:34:18] CPU Usage: 0.09%
+[2024-06-06 14:34:18] Total Memory: 257572 MB, Used Memory: 11096 MB, Free Memory: 246475 MB
+[2024-06-06 14:34:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:34:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:34:28] CPU Usage: 0.08%
+[2024-06-06 14:34:28] Total Memory: 257572 MB, Used Memory: 11101 MB, Free Memory: 246470 MB
+[2024-06-06 14:34:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:34:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:34:38] CPU Usage: 0.09%
+[2024-06-06 14:34:38] Total Memory: 257572 MB, Used Memory: 11100 MB, Free Memory: 246471 MB
+[2024-06-06 14:34:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:34:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:34:48] CPU Usage: 0.08%
+[2024-06-06 14:34:48] Total Memory: 257572 MB, Used Memory: 11108 MB, Free Memory: 246463 MB
+[2024-06-06 14:34:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:34:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:34:58] CPU Usage: 0.09%
+[2024-06-06 14:34:58] Total Memory: 257572 MB, Used Memory: 11107 MB, Free Memory: 246465 MB
+[2024-06-06 14:34:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:34:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:35:08] CPU Usage: 0.08%
+[2024-06-06 14:35:08] Total Memory: 257572 MB, Used Memory: 11104 MB, Free Memory: 246468 MB
+[2024-06-06 14:35:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:35:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:35:18] CPU Usage: 0.08%
+[2024-06-06 14:35:18] Total Memory: 257572 MB, Used Memory: 11103 MB, Free Memory: 246469 MB
+[2024-06-06 14:35:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:35:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:35:28] CPU Usage: 0.09%
+[2024-06-06 14:35:28] Total Memory: 257572 MB, Used Memory: 11104 MB, Free Memory: 246468 MB
+[2024-06-06 14:35:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:35:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:35:38] CPU Usage: 0.08%
+[2024-06-06 14:35:38] Total Memory: 257572 MB, Used Memory: 11111 MB, Free Memory: 246461 MB
+[2024-06-06 14:35:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:35:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:35:48] CPU Usage: 0.09%
+[2024-06-06 14:35:48] Total Memory: 257572 MB, Used Memory: 11108 MB, Free Memory: 246463 MB
+[2024-06-06 14:35:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:35:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:35:58] CPU Usage: 0.08%
+[2024-06-06 14:35:58] Total Memory: 257572 MB, Used Memory: 11111 MB, Free Memory: 246461 MB
+[2024-06-06 14:35:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:35:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:36:08] CPU Usage: 0.08%
+[2024-06-06 14:36:08] Total Memory: 257572 MB, Used Memory: 11116 MB, Free Memory: 246456 MB
+[2024-06-06 14:36:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:36:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:36:18] CPU Usage: 0.08%
+[2024-06-06 14:36:18] Total Memory: 257572 MB, Used Memory: 11114 MB, Free Memory: 246457 MB
+[2024-06-06 14:36:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:36:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:36:28] CPU Usage: 0.08%
+[2024-06-06 14:36:28] Total Memory: 257572 MB, Used Memory: 11114 MB, Free Memory: 246457 MB
+[2024-06-06 14:36:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:36:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:36:38] CPU Usage: 0.07%
+[2024-06-06 14:36:38] Total Memory: 257572 MB, Used Memory: 11107 MB, Free Memory: 246464 MB
+[2024-06-06 14:36:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:36:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:36:48] CPU Usage: 0.12%
+[2024-06-06 14:36:48] Total Memory: 257572 MB, Used Memory: 11110 MB, Free Memory: 246461 MB
+[2024-06-06 14:36:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:36:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:36:58] CPU Usage: 0.08%
+[2024-06-06 14:36:58] Total Memory: 257572 MB, Used Memory: 11109 MB, Free Memory: 246463 MB
+[2024-06-06 14:36:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:36:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:37:08] CPU Usage: 0.08%
+[2024-06-06 14:37:08] Total Memory: 257572 MB, Used Memory: 11114 MB, Free Memory: 246457 MB
+[2024-06-06 14:37:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:37:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:37:18] CPU Usage: 0.09%
+[2024-06-06 14:37:18] Total Memory: 257572 MB, Used Memory: 11120 MB, Free Memory: 246451 MB
+[2024-06-06 14:37:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:37:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:37:28] CPU Usage: 0.08%
+[2024-06-06 14:37:28] Total Memory: 257572 MB, Used Memory: 11125 MB, Free Memory: 246447 MB
+[2024-06-06 14:37:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:37:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:37:38] CPU Usage: 0.08%
+[2024-06-06 14:37:38] Total Memory: 257572 MB, Used Memory: 11130 MB, Free Memory: 246441 MB
+[2024-06-06 14:37:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:37:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:37:48] CPU Usage: 0.09%
+[2024-06-06 14:37:48] Total Memory: 257572 MB, Used Memory: 11131 MB, Free Memory: 246440 MB
+[2024-06-06 14:37:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:37:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:37:58] CPU Usage: 0.08%
+[2024-06-06 14:37:58] Total Memory: 257572 MB, Used Memory: 11131 MB, Free Memory: 246440 MB
+[2024-06-06 14:37:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:37:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:38:08] CPU Usage: 0.08%
+[2024-06-06 14:38:08] Total Memory: 257572 MB, Used Memory: 11131 MB, Free Memory: 246441 MB
+[2024-06-06 14:38:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:38:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:38:18] CPU Usage: 0.09%
+[2024-06-06 14:38:18] Total Memory: 257572 MB, Used Memory: 11131 MB, Free Memory: 246441 MB
+[2024-06-06 14:38:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:38:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:38:28] CPU Usage: 0.08%
+[2024-06-06 14:38:28] Total Memory: 257572 MB, Used Memory: 11134 MB, Free Memory: 246438 MB
+[2024-06-06 14:38:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:38:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:38:38] CPU Usage: 0.08%
+[2024-06-06 14:38:38] Total Memory: 257572 MB, Used Memory: 11127 MB, Free Memory: 246445 MB
+[2024-06-06 14:38:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:38:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:38:48] CPU Usage: 0.09%
+[2024-06-06 14:38:48] Total Memory: 257572 MB, Used Memory: 11126 MB, Free Memory: 246445 MB
+[2024-06-06 14:38:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:38:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:38:58] CPU Usage: 0.08%
+[2024-06-06 14:38:58] Total Memory: 257572 MB, Used Memory: 11128 MB, Free Memory: 246444 MB
+[2024-06-06 14:38:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:38:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:39:08] CPU Usage: 0.10%
+[2024-06-06 14:39:08] Total Memory: 257572 MB, Used Memory: 11119 MB, Free Memory: 246453 MB
+[2024-06-06 14:39:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:39:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:39:18] CPU Usage: 0.08%
+[2024-06-06 14:39:18] Total Memory: 257572 MB, Used Memory: 11121 MB, Free Memory: 246450 MB
+[2024-06-06 14:39:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:39:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:39:28] CPU Usage: 0.08%
+[2024-06-06 14:39:28] Total Memory: 257572 MB, Used Memory: 11126 MB, Free Memory: 246446 MB
+[2024-06-06 14:39:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:39:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:39:38] CPU Usage: 0.08%
+[2024-06-06 14:39:38] Total Memory: 257572 MB, Used Memory: 11122 MB, Free Memory: 246449 MB
+[2024-06-06 14:39:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:39:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:39:48] CPU Usage: 0.10%
+[2024-06-06 14:39:48] Total Memory: 257572 MB, Used Memory: 11127 MB, Free Memory: 246444 MB
+[2024-06-06 14:39:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:39:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:54:12] CPU Usage: 0.18%
+[2024-06-06 14:54:12] Total Memory: 257572 MB, Used Memory: 11146 MB, Free Memory: 246425 MB
+[2024-06-06 14:54:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:54:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:54:22] CPU Usage: 0.09%
+[2024-06-06 14:54:22] Total Memory: 257572 MB, Used Memory: 11151 MB, Free Memory: 246420 MB
+[2024-06-06 14:54:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:54:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:54:32] CPU Usage: 0.08%
+[2024-06-06 14:54:32] Total Memory: 257572 MB, Used Memory: 11145 MB, Free Memory: 246426 MB
+[2024-06-06 14:54:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:54:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:54:42] CPU Usage: 0.08%
+[2024-06-06 14:54:42] Total Memory: 257572 MB, Used Memory: 11147 MB, Free Memory: 246425 MB
+[2024-06-06 14:54:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-06 14:54:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:26:35] CPU Usage: 0.06%
+[2024-06-11 20:26:35] Total Memory: 257572 MB, Used Memory: 11898 MB, Free Memory: 245673 MB
+[2024-06-11 20:26:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:26:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:26:45] CPU Usage: 0.11%
+[2024-06-11 20:26:45] Total Memory: 257572 MB, Used Memory: 11897 MB, Free Memory: 245674 MB
+[2024-06-11 20:26:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:26:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:26:55] CPU Usage: 0.06%
+[2024-06-11 20:26:55] Total Memory: 257572 MB, Used Memory: 11887 MB, Free Memory: 245685 MB
+[2024-06-11 20:26:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:26:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:35:02] CPU Usage: 0.06%
+[2024-06-11 20:35:02] Total Memory: 257572 MB, Used Memory: 12670 MB, Free Memory: 244901 MB
+[2024-06-11 20:35:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:35:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:35:12] CPU Usage: 0.10%
+[2024-06-11 20:35:12] Total Memory: 257572 MB, Used Memory: 12682 MB, Free Memory: 244889 MB
+[2024-06-11 20:35:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:35:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:35:22] CPU Usage: 0.19%
+[2024-06-11 20:35:22] Total Memory: 257572 MB, Used Memory: 12653 MB, Free Memory: 244919 MB
+[2024-06-11 20:35:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:35:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:38:25] CPU Usage: 0.06%
+[2024-06-11 20:38:25] Total Memory: 257572 MB, Used Memory: 12672 MB, Free Memory: 244900 MB
+[2024-06-11 20:38:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:38:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:38:35] CPU Usage: 0.12%
+[2024-06-11 20:38:35] Total Memory: 257572 MB, Used Memory: 12671 MB, Free Memory: 244900 MB
+[2024-06-11 20:38:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:38:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:38:45] CPU Usage: 0.08%
+[2024-06-11 20:38:45] Total Memory: 257572 MB, Used Memory: 12673 MB, Free Memory: 244898 MB
+[2024-06-11 20:38:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:38:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:58:57] CPU Usage: 0.06%
+[2024-06-11 20:58:57] Total Memory: 257572 MB, Used Memory: 12818 MB, Free Memory: 244754 MB
+[2024-06-11 20:58:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:58:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:59:07] CPU Usage: 0.09%
+[2024-06-11 20:59:07] Total Memory: 257572 MB, Used Memory: 12831 MB, Free Memory: 244740 MB
+[2024-06-11 20:59:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:59:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:59:17] CPU Usage: 0.06%
+[2024-06-11 20:59:17] Total Memory: 257572 MB, Used Memory: 12836 MB, Free Memory: 244736 MB
+[2024-06-11 20:59:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 20:59:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:16:39] CPU Usage: 0.06%
+[2024-06-11 21:16:39] Total Memory: 257572 MB, Used Memory: 12571 MB, Free Memory: 245000 MB
+[2024-06-11 21:16:39] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:16:39] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:23:06] CPU Usage: 0.06%
+[2024-06-11 21:23:06] Total Memory: 257572 MB, Used Memory: 12800 MB, Free Memory: 244771 MB
+[2024-06-11 21:23:06] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:23:06] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:23:16] CPU Usage: 0.09%
+[2024-06-11 21:23:16] Total Memory: 257572 MB, Used Memory: 12793 MB, Free Memory: 244779 MB
+[2024-06-11 21:23:16] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:23:16] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:23:26] CPU Usage: 0.21%
+[2024-06-11 21:23:26] Total Memory: 257572 MB, Used Memory: 12816 MB, Free Memory: 244755 MB
+[2024-06-11 21:23:26] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:23:26] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:28:36] CPU Usage: 0.06%
+[2024-06-11 21:28:36] Total Memory: 257572 MB, Used Memory: 12906 MB, Free Memory: 244665 MB
+[2024-06-11 21:28:36] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:28:36] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:28:46] CPU Usage: 0.15%
+[2024-06-11 21:28:46] Total Memory: 257572 MB, Used Memory: 12908 MB, Free Memory: 244663 MB
+[2024-06-11 21:28:46] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:28:46] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:28:56] CPU Usage: 0.12%
+[2024-06-11 21:28:56] Total Memory: 257572 MB, Used Memory: 12918 MB, Free Memory: 244654 MB
+[2024-06-11 21:28:56] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:28:56] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:38:35] CPU Usage: 0.06%
+[2024-06-11 21:38:35] Total Memory: 257572 MB, Used Memory: 12884 MB, Free Memory: 244687 MB
+[2024-06-11 21:38:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:38:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:38:45] CPU Usage: 0.14%
+[2024-06-11 21:38:45] Total Memory: 257572 MB, Used Memory: 12895 MB, Free Memory: 244677 MB
+[2024-06-11 21:38:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:38:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:38:55] CPU Usage: 0.13%
+[2024-06-11 21:38:55] Total Memory: 257572 MB, Used Memory: 12838 MB, Free Memory: 244733 MB
+[2024-06-11 21:38:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:38:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:43:17] CPU Usage: 0.06%
+[2024-06-11 21:43:17] Total Memory: 257572 MB, Used Memory: 12954 MB, Free Memory: 244617 MB
+[2024-06-11 21:43:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:43:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:43:27] CPU Usage: 0.15%
+[2024-06-11 21:43:27] Total Memory: 257572 MB, Used Memory: 12928 MB, Free Memory: 244644 MB
+[2024-06-11 21:43:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:43:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:43:37] CPU Usage: 0.07%
+[2024-06-11 21:43:37] Total Memory: 257572 MB, Used Memory: 12922 MB, Free Memory: 244649 MB
+[2024-06-11 21:43:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:43:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:44:05] CPU Usage: 0.06%
+[2024-06-11 21:44:05] Total Memory: 257572 MB, Used Memory: 12909 MB, Free Memory: 244662 MB
+[2024-06-11 21:44:05] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:44:05] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:44:15] CPU Usage: 0.11%
+[2024-06-11 21:44:15] Total Memory: 257572 MB, Used Memory: 12890 MB, Free Memory: 244682 MB
+[2024-06-11 21:44:15] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:44:15] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:44:25] CPU Usage: 0.13%
+[2024-06-11 21:44:25] Total Memory: 257572 MB, Used Memory: 12865 MB, Free Memory: 244706 MB
+[2024-06-11 21:44:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:44:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:44:35] CPU Usage: 0.12%
+[2024-06-11 21:44:35] Total Memory: 257572 MB, Used Memory: 12829 MB, Free Memory: 244742 MB
+[2024-06-11 21:44:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:44:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:44:45] CPU Usage: 0.10%
+[2024-06-11 21:44:45] Total Memory: 257572 MB, Used Memory: 12823 MB, Free Memory: 244749 MB
+[2024-06-11 21:44:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:44:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:44:55] CPU Usage: 0.15%
+[2024-06-11 21:44:55] Total Memory: 257572 MB, Used Memory: 12811 MB, Free Memory: 244760 MB
+[2024-06-11 21:44:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:44:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:45:05] CPU Usage: 0.15%
+[2024-06-11 21:45:05] Total Memory: 257572 MB, Used Memory: 12816 MB, Free Memory: 244756 MB
+[2024-06-11 21:45:05] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:45:05] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:45:15] CPU Usage: 0.16%
+[2024-06-11 21:45:15] Total Memory: 257572 MB, Used Memory: 12806 MB, Free Memory: 244765 MB
+[2024-06-11 21:45:15] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:45:15] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:45:25] CPU Usage: 0.14%
+[2024-06-11 21:45:25] Total Memory: 257572 MB, Used Memory: 12818 MB, Free Memory: 244754 MB
+[2024-06-11 21:45:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:45:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:45:35] CPU Usage: 0.19%
+[2024-06-11 21:45:35] Total Memory: 257572 MB, Used Memory: 12854 MB, Free Memory: 244717 MB
+[2024-06-11 21:45:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:45:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:46:35] CPU Usage: 0.06%
+[2024-06-11 21:46:35] Total Memory: 257572 MB, Used Memory: 12880 MB, Free Memory: 244691 MB
+[2024-06-11 21:46:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:46:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:46:45] CPU Usage: 0.17%
+[2024-06-11 21:46:45] Total Memory: 257572 MB, Used Memory: 12875 MB, Free Memory: 244697 MB
+[2024-06-11 21:46:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:46:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:46:55] CPU Usage: 0.06%
+[2024-06-11 21:46:55] Total Memory: 257572 MB, Used Memory: 12883 MB, Free Memory: 244688 MB
+[2024-06-11 21:46:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:46:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:49:34] CPU Usage: 0.06%
+[2024-06-11 21:49:34] Total Memory: 257572 MB, Used Memory: 12891 MB, Free Memory: 244680 MB
+[2024-06-11 21:49:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:49:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:49:44] CPU Usage: 0.11%
+[2024-06-11 21:49:44] Total Memory: 257572 MB, Used Memory: 12896 MB, Free Memory: 244676 MB
+[2024-06-11 21:49:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:49:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:49:54] CPU Usage: 0.14%
+[2024-06-11 21:49:54] Total Memory: 257572 MB, Used Memory: 12857 MB, Free Memory: 244715 MB
+[2024-06-11 21:49:54] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:49:54] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:50:04] CPU Usage: 0.13%
+[2024-06-11 21:50:04] Total Memory: 257572 MB, Used Memory: 12835 MB, Free Memory: 244736 MB
+[2024-06-11 21:50:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:50:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:50:14] CPU Usage: 0.10%
+[2024-06-11 21:50:14] Total Memory: 257572 MB, Used Memory: 12842 MB, Free Memory: 244729 MB
+[2024-06-11 21:50:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:50:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:50:24] CPU Usage: 0.08%
+[2024-06-11 21:50:24] Total Memory: 257572 MB, Used Memory: 12843 MB, Free Memory: 244728 MB
+[2024-06-11 21:50:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:50:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:50:34] CPU Usage: 0.08%
+[2024-06-11 21:50:34] Total Memory: 257572 MB, Used Memory: 12838 MB, Free Memory: 244734 MB
+[2024-06-11 21:50:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:50:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:50:44] CPU Usage: 0.10%
+[2024-06-11 21:50:44] Total Memory: 257572 MB, Used Memory: 12848 MB, Free Memory: 244724 MB
+[2024-06-11 21:50:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:50:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:50:54] CPU Usage: 0.10%
+[2024-06-11 21:50:54] Total Memory: 257572 MB, Used Memory: 12844 MB, Free Memory: 244727 MB
+[2024-06-11 21:50:54] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:50:54] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:51:04] CPU Usage: 0.13%
+[2024-06-11 21:51:04] Total Memory: 257572 MB, Used Memory: 12855 MB, Free Memory: 244716 MB
+[2024-06-11 21:51:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:51:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:51:14] CPU Usage: 0.14%
+[2024-06-11 21:51:14] Total Memory: 257572 MB, Used Memory: 12853 MB, Free Memory: 244718 MB
+[2024-06-11 21:51:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:51:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:51:24] CPU Usage: 0.10%
+[2024-06-11 21:51:24] Total Memory: 257572 MB, Used Memory: 12859 MB, Free Memory: 244713 MB
+[2024-06-11 21:51:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:51:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:51:34] CPU Usage: 0.09%
+[2024-06-11 21:51:34] Total Memory: 257572 MB, Used Memory: 12854 MB, Free Memory: 244718 MB
+[2024-06-11 21:51:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:51:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:51:44] CPU Usage: 0.09%
+[2024-06-11 21:51:44] Total Memory: 257572 MB, Used Memory: 12856 MB, Free Memory: 244715 MB
+[2024-06-11 21:51:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:51:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:51:54] CPU Usage: 0.11%
+[2024-06-11 21:51:54] Total Memory: 257572 MB, Used Memory: 12854 MB, Free Memory: 244718 MB
+[2024-06-11 21:51:54] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:51:54] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:52:04] CPU Usage: 0.13%
+[2024-06-11 21:52:04] Total Memory: 257572 MB, Used Memory: 12884 MB, Free Memory: 244687 MB
+[2024-06-11 21:52:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:52:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:52:14] CPU Usage: 0.14%
+[2024-06-11 21:52:14] Total Memory: 257572 MB, Used Memory: 12903 MB, Free Memory: 244668 MB
+[2024-06-11 21:52:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:52:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:52:24] CPU Usage: 0.32%
+[2024-06-11 21:52:24] Total Memory: 257572 MB, Used Memory: 12930 MB, Free Memory: 244641 MB
+[2024-06-11 21:52:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:52:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:52:34] CPU Usage: 0.20%
+[2024-06-11 21:52:34] Total Memory: 257572 MB, Used Memory: 12929 MB, Free Memory: 244643 MB
+[2024-06-11 21:52:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:52:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:52:44] CPU Usage: 0.17%
+[2024-06-11 21:52:44] Total Memory: 257572 MB, Used Memory: 12895 MB, Free Memory: 244676 MB
+[2024-06-11 21:52:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:52:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:52:54] CPU Usage: 0.19%
+[2024-06-11 21:52:54] Total Memory: 257572 MB, Used Memory: 12868 MB, Free Memory: 244704 MB
+[2024-06-11 21:52:54] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:52:54] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:53:04] CPU Usage: 0.22%
+[2024-06-11 21:53:04] Total Memory: 257572 MB, Used Memory: 12878 MB, Free Memory: 244694 MB
+[2024-06-11 21:53:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:53:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:53:14] CPU Usage: 0.27%
+[2024-06-11 21:53:14] Total Memory: 257572 MB, Used Memory: 12920 MB, Free Memory: 244652 MB
+[2024-06-11 21:53:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:53:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:53:24] CPU Usage: 0.28%
+[2024-06-11 21:53:24] Total Memory: 257572 MB, Used Memory: 12907 MB, Free Memory: 244664 MB
+[2024-06-11 21:53:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:53:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:53:34] CPU Usage: 0.13%
+[2024-06-11 21:53:34] Total Memory: 257572 MB, Used Memory: 12909 MB, Free Memory: 244662 MB
+[2024-06-11 21:53:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:53:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:53:44] CPU Usage: 0.23%
+[2024-06-11 21:53:44] Total Memory: 257572 MB, Used Memory: 12875 MB, Free Memory: 244697 MB
+[2024-06-11 21:53:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:53:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:53:54] CPU Usage: 0.12%
+[2024-06-11 21:53:54] Total Memory: 257572 MB, Used Memory: 12839 MB, Free Memory: 244733 MB
+[2024-06-11 21:53:54] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:53:54] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:54:04] CPU Usage: 0.12%
+[2024-06-11 21:54:04] Total Memory: 257572 MB, Used Memory: 12839 MB, Free Memory: 244733 MB
+[2024-06-11 21:54:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:54:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:54:14] CPU Usage: 0.19%
+[2024-06-11 21:54:14] Total Memory: 257572 MB, Used Memory: 12839 MB, Free Memory: 244733 MB
+[2024-06-11 21:54:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:54:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:54:25] CPU Usage: 0.19%
+[2024-06-11 21:54:25] Total Memory: 257572 MB, Used Memory: 12889 MB, Free Memory: 244683 MB
+[2024-06-11 21:54:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:54:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:54:35] CPU Usage: 0.16%
+[2024-06-11 21:54:35] Total Memory: 257572 MB, Used Memory: 12844 MB, Free Memory: 244727 MB
+[2024-06-11 21:54:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:54:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:54:45] CPU Usage: 0.09%
+[2024-06-11 21:54:45] Total Memory: 257572 MB, Used Memory: 12845 MB, Free Memory: 244727 MB
+[2024-06-11 21:54:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:54:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:54:55] CPU Usage: 0.09%
+[2024-06-11 21:54:55] Total Memory: 257572 MB, Used Memory: 12849 MB, Free Memory: 244722 MB
+[2024-06-11 21:54:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:54:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:55:05] CPU Usage: 0.15%
+[2024-06-11 21:55:05] Total Memory: 257572 MB, Used Memory: 12885 MB, Free Memory: 244687 MB
+[2024-06-11 21:55:05] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:55:05] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:55:15] CPU Usage: 0.13%
+[2024-06-11 21:55:15] Total Memory: 257572 MB, Used Memory: 12869 MB, Free Memory: 244702 MB
+[2024-06-11 21:55:15] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:55:15] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:55:25] CPU Usage: 0.23%
+[2024-06-11 21:55:25] Total Memory: 257572 MB, Used Memory: 12936 MB, Free Memory: 244635 MB
+[2024-06-11 21:55:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:55:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:55:35] CPU Usage: 0.30%
+[2024-06-11 21:55:35] Total Memory: 257572 MB, Used Memory: 12889 MB, Free Memory: 244682 MB
+[2024-06-11 21:55:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:55:35] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:55:45] CPU Usage: 0.16%
+[2024-06-11 21:55:45] Total Memory: 257572 MB, Used Memory: 12867 MB, Free Memory: 244705 MB
+[2024-06-11 21:55:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:55:45] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:55:55] CPU Usage: 0.28%
+[2024-06-11 21:55:55] Total Memory: 257572 MB, Used Memory: 12920 MB, Free Memory: 244652 MB
+[2024-06-11 21:55:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:55:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:56:05] CPU Usage: 0.12%
+[2024-06-11 21:56:05] Total Memory: 257572 MB, Used Memory: 12917 MB, Free Memory: 244654 MB
+[2024-06-11 21:56:05] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:56:05] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:56:15] CPU Usage: 0.14%
+[2024-06-11 21:56:15] Total Memory: 257572 MB, Used Memory: 12915 MB, Free Memory: 244656 MB
+[2024-06-11 21:56:15] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:56:15] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:56:25] CPU Usage: 0.15%
+[2024-06-11 21:56:25] Total Memory: 257572 MB, Used Memory: 12892 MB, Free Memory: 244679 MB
+[2024-06-11 21:56:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:56:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:56:49] CPU Usage: 0.06%
+[2024-06-11 21:56:49] Total Memory: 257572 MB, Used Memory: 12892 MB, Free Memory: 244680 MB
+[2024-06-11 21:56:49] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:56:49] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:56:59] CPU Usage: 0.11%
+[2024-06-11 21:56:59] Total Memory: 257572 MB, Used Memory: 12870 MB, Free Memory: 244702 MB
+[2024-06-11 21:56:59] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:56:59] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:57:09] CPU Usage: 0.21%
+[2024-06-11 21:57:09] Total Memory: 257572 MB, Used Memory: 12871 MB, Free Memory: 244700 MB
+[2024-06-11 21:57:09] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:57:09] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:57:19] CPU Usage: 0.20%
+[2024-06-11 21:57:19] Total Memory: 257572 MB, Used Memory: 12894 MB, Free Memory: 244677 MB
+[2024-06-11 21:57:19] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:57:19] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:57:38] CPU Usage: 0.06%
+[2024-06-11 21:57:38] Total Memory: 257572 MB, Used Memory: 12861 MB, Free Memory: 244710 MB
+[2024-06-11 21:57:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:57:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:57:48] CPU Usage: 0.18%
+[2024-06-11 21:57:48] Total Memory: 257572 MB, Used Memory: 12882 MB, Free Memory: 244690 MB
+[2024-06-11 21:57:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:57:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:57:58] CPU Usage: 0.13%
+[2024-06-11 21:57:58] Total Memory: 257572 MB, Used Memory: 12855 MB, Free Memory: 244717 MB
+[2024-06-11 21:57:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:57:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:59:11] CPU Usage: 0.06%
+[2024-06-11 21:59:11] Total Memory: 257572 MB, Used Memory: 12921 MB, Free Memory: 244651 MB
+[2024-06-11 21:59:11] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:59:11] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:59:21] CPU Usage: 0.16%
+[2024-06-11 21:59:21] Total Memory: 257572 MB, Used Memory: 12916 MB, Free Memory: 244656 MB
+[2024-06-11 21:59:21] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:59:21] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:59:31] CPU Usage: 0.10%
+[2024-06-11 21:59:31] Total Memory: 257572 MB, Used Memory: 12913 MB, Free Memory: 244659 MB
+[2024-06-11 21:59:31] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:59:31] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:59:55] CPU Usage: 0.06%
+[2024-06-11 21:59:55] Total Memory: 257572 MB, Used Memory: 12887 MB, Free Memory: 244685 MB
+[2024-06-11 21:59:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 21:59:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:00:05] CPU Usage: 0.22%
+[2024-06-11 22:00:05] Total Memory: 257572 MB, Used Memory: 12914 MB, Free Memory: 244658 MB
+[2024-06-11 22:00:05] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:00:05] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:00:15] CPU Usage: 0.20%
+[2024-06-11 22:00:15] Total Memory: 257572 MB, Used Memory: 12900 MB, Free Memory: 244671 MB
+[2024-06-11 22:00:15] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:00:15] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:00:36] CPU Usage: 0.06%
+[2024-06-11 22:00:36] Total Memory: 257572 MB, Used Memory: 12850 MB, Free Memory: 244722 MB
+[2024-06-11 22:00:36] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:00:36] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:00:46] CPU Usage: 0.15%
+[2024-06-11 22:00:46] Total Memory: 257572 MB, Used Memory: 12848 MB, Free Memory: 244723 MB
+[2024-06-11 22:00:46] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:00:46] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:00:56] CPU Usage: 0.12%
+[2024-06-11 22:00:56] Total Memory: 257572 MB, Used Memory: 12849 MB, Free Memory: 244723 MB
+[2024-06-11 22:00:56] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:00:56] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:01:06] CPU Usage: 0.30%
+[2024-06-11 22:01:06] Total Memory: 257572 MB, Used Memory: 12892 MB, Free Memory: 244679 MB
+[2024-06-11 22:01:06] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:01:06] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:01:33] CPU Usage: 0.06%
+[2024-06-11 22:01:33] Total Memory: 257572 MB, Used Memory: 12943 MB, Free Memory: 244629 MB
+[2024-06-11 22:01:33] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:01:33] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:01:43] CPU Usage: 0.14%
+[2024-06-11 22:01:43] Total Memory: 257572 MB, Used Memory: 12938 MB, Free Memory: 244633 MB
+[2024-06-11 22:01:43] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:01:43] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:01:53] CPU Usage: 0.06%
+[2024-06-11 22:01:53] Total Memory: 257572 MB, Used Memory: 12939 MB, Free Memory: 244633 MB
+[2024-06-11 22:01:53] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:01:53] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:09:27] CPU Usage: 0.06%
+[2024-06-11 22:09:27] Total Memory: 257572 MB, Used Memory: 12917 MB, Free Memory: 244654 MB
+[2024-06-11 22:09:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:09:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:09:37] CPU Usage: 0.18%
+[2024-06-11 22:09:37] Total Memory: 257572 MB, Used Memory: 12833 MB, Free Memory: 244739 MB
+[2024-06-11 22:09:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:09:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:09:47] CPU Usage: 0.25%
+[2024-06-11 22:09:47] Total Memory: 257572 MB, Used Memory: 12920 MB, Free Memory: 244651 MB
+[2024-06-11 22:09:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:09:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:10:07] CPU Usage: 0.06%
+[2024-06-11 22:10:07] Total Memory: 257572 MB, Used Memory: 12882 MB, Free Memory: 244689 MB
+[2024-06-11 22:10:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:10:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:10:17] CPU Usage: 0.12%
+[2024-06-11 22:10:17] Total Memory: 257572 MB, Used Memory: 12875 MB, Free Memory: 244697 MB
+[2024-06-11 22:10:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:10:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:10:27] CPU Usage: 0.12%
+[2024-06-11 22:10:27] Total Memory: 257572 MB, Used Memory: 12873 MB, Free Memory: 244698 MB
+[2024-06-11 22:10:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:10:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:10:37] CPU Usage: 0.12%
+[2024-06-11 22:10:37] Total Memory: 257572 MB, Used Memory: 12869 MB, Free Memory: 244702 MB
+[2024-06-11 22:10:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:10:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:10:47] CPU Usage: 0.12%
+[2024-06-11 22:10:47] Total Memory: 257572 MB, Used Memory: 12845 MB, Free Memory: 244727 MB
+[2024-06-11 22:10:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:10:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:10:57] CPU Usage: 0.12%
+[2024-06-11 22:10:57] Total Memory: 257572 MB, Used Memory: 12852 MB, Free Memory: 244720 MB
+[2024-06-11 22:10:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:10:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:11:07] CPU Usage: 0.14%
+[2024-06-11 22:11:07] Total Memory: 257572 MB, Used Memory: 12902 MB, Free Memory: 244670 MB
+[2024-06-11 22:11:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:11:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:11:17] CPU Usage: 0.12%
+[2024-06-11 22:11:17] Total Memory: 257572 MB, Used Memory: 12917 MB, Free Memory: 244654 MB
+[2024-06-11 22:11:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:11:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:11:27] CPU Usage: 0.13%
+[2024-06-11 22:11:27] Total Memory: 257572 MB, Used Memory: 12929 MB, Free Memory: 244642 MB
+[2024-06-11 22:11:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:11:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:11:37] CPU Usage: 0.13%
+[2024-06-11 22:11:37] Total Memory: 257572 MB, Used Memory: 12939 MB, Free Memory: 244632 MB
+[2024-06-11 22:11:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:11:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:11:47] CPU Usage: 0.15%
+[2024-06-11 22:11:47] Total Memory: 257572 MB, Used Memory: 12950 MB, Free Memory: 244622 MB
+[2024-06-11 22:11:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:11:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:11:57] CPU Usage: 0.17%
+[2024-06-11 22:11:57] Total Memory: 257572 MB, Used Memory: 12959 MB, Free Memory: 244612 MB
+[2024-06-11 22:11:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:11:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:12:07] CPU Usage: 0.13%
+[2024-06-11 22:12:07] Total Memory: 257572 MB, Used Memory: 12977 MB, Free Memory: 244595 MB
+[2024-06-11 22:12:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:12:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:12:17] CPU Usage: 0.16%
+[2024-06-11 22:12:17] Total Memory: 257572 MB, Used Memory: 12970 MB, Free Memory: 244601 MB
+[2024-06-11 22:12:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:12:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:12:27] CPU Usage: 0.17%
+[2024-06-11 22:12:27] Total Memory: 257572 MB, Used Memory: 12990 MB, Free Memory: 244581 MB
+[2024-06-11 22:12:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:12:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:12:37] CPU Usage: 0.15%
+[2024-06-11 22:12:37] Total Memory: 257572 MB, Used Memory: 13004 MB, Free Memory: 244567 MB
+[2024-06-11 22:12:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:12:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:12:47] CPU Usage: 0.12%
+[2024-06-11 22:12:47] Total Memory: 257572 MB, Used Memory: 13015 MB, Free Memory: 244557 MB
+[2024-06-11 22:12:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:12:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:12:57] CPU Usage: 0.11%
+[2024-06-11 22:12:57] Total Memory: 257572 MB, Used Memory: 13009 MB, Free Memory: 244562 MB
+[2024-06-11 22:12:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:12:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:13:07] CPU Usage: 0.09%
+[2024-06-11 22:13:07] Total Memory: 257572 MB, Used Memory: 13011 MB, Free Memory: 244561 MB
+[2024-06-11 22:13:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:13:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:13:17] CPU Usage: 0.09%
+[2024-06-11 22:13:17] Total Memory: 257572 MB, Used Memory: 13010 MB, Free Memory: 244562 MB
+[2024-06-11 22:13:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:13:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:15:42] CPU Usage: 0.07%
+[2024-06-11 22:15:42] Total Memory: 257572 MB, Used Memory: 15495 MB, Free Memory: 242077 MB
+[2024-06-11 22:15:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:15:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:15:52] CPU Usage: 100.00%
+[2024-06-11 22:15:52] Total Memory: 257572 MB, Used Memory: 15488 MB, Free Memory: 242083 MB
+[2024-06-11 22:15:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:15:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:16:02] CPU Usage: 100.00%
+[2024-06-11 22:16:02] Total Memory: 257572 MB, Used Memory: 15497 MB, Free Memory: 242075 MB
+[2024-06-11 22:16:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:16:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:21:10] CPU Usage: 0.13%
+[2024-06-11 22:21:10] Total Memory: 257572 MB, Used Memory: 15522 MB, Free Memory: 242049 MB
+[2024-06-11 22:21:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:21:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:21:20] CPU Usage: 100.00%
+[2024-06-11 22:21:20] Total Memory: 257572 MB, Used Memory: 15518 MB, Free Memory: 242053 MB
+[2024-06-11 22:21:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:21:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:21:30] CPU Usage: 100.00%
+[2024-06-11 22:21:30] Total Memory: 257572 MB, Used Memory: 15508 MB, Free Memory: 242064 MB
+[2024-06-11 22:21:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:21:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:21:40] CPU Usage: 100.00%
+[2024-06-11 22:21:40] Total Memory: 257572 MB, Used Memory: 15501 MB, Free Memory: 242070 MB
+[2024-06-11 22:21:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:21:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:21:50] CPU Usage: 100.00%
+[2024-06-11 22:21:50] Total Memory: 257572 MB, Used Memory: 15503 MB, Free Memory: 242068 MB
+[2024-06-11 22:21:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:21:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:24:38] CPU Usage: 0.16%
+[2024-06-11 22:24:38] Total Memory: 257572 MB, Used Memory: 15531 MB, Free Memory: 242041 MB
+[2024-06-11 22:24:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:24:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:24:48] CPU Usage: 100.00%
+[2024-06-11 22:24:48] Total Memory: 257572 MB, Used Memory: 15528 MB, Free Memory: 242044 MB
+[2024-06-11 22:24:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:24:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:24:58] CPU Usage: 100.00%
+[2024-06-11 22:24:58] Total Memory: 257572 MB, Used Memory: 15494 MB, Free Memory: 242077 MB
+[2024-06-11 22:24:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:24:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:27:13] CPU Usage: 0.19%
+[2024-06-11 22:27:13] Total Memory: 257572 MB, Used Memory: 15485 MB, Free Memory: 242087 MB
+[2024-06-11 22:27:13] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:27:13] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:27:23] CPU Usage: 100.00%
+[2024-06-11 22:27:23] Total Memory: 257572 MB, Used Memory: 15487 MB, Free Memory: 242085 MB
+[2024-06-11 22:27:23] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:27:23] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:27:33] CPU Usage: 100.00%
+[2024-06-11 22:27:33] Total Memory: 257572 MB, Used Memory: 15494 MB, Free Memory: 242077 MB
+[2024-06-11 22:27:33] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:27:33] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:30:40] CPU Usage: 0.23%
+[2024-06-11 22:30:40] Total Memory: 257572 MB, Used Memory: 15487 MB, Free Memory: 242084 MB
+[2024-06-11 22:30:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:30:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:30:51] CPU Usage: 100.00%
+[2024-06-11 22:30:51] Total Memory: 257572 MB, Used Memory: 15469 MB, Free Memory: 242102 MB
+[2024-06-11 22:30:51] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:30:51] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:31:01] CPU Usage: 100.00%
+[2024-06-11 22:31:01] Total Memory: 257572 MB, Used Memory: 15494 MB, Free Memory: 242077 MB
+[2024-06-11 22:31:01] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:31:01] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:32:20] CPU Usage: 0.25%
+[2024-06-11 22:32:20] Total Memory: 257572 MB, Used Memory: 15506 MB, Free Memory: 242065 MB
+[2024-06-11 22:32:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:32:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:32:30] CPU Usage: 100.00%
+[2024-06-11 22:32:30] Total Memory: 257572 MB, Used Memory: 15489 MB, Free Memory: 242083 MB
+[2024-06-11 22:32:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:32:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:32:40] CPU Usage: 100.00%
+[2024-06-11 22:32:40] Total Memory: 257572 MB, Used Memory: 15486 MB, Free Memory: 242086 MB
+[2024-06-11 22:32:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:32:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:32:50] CPU Usage: 100.00%
+[2024-06-11 22:32:50] Total Memory: 257572 MB, Used Memory: 15514 MB, Free Memory: 242057 MB
+[2024-06-11 22:32:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:32:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:33:00] CPU Usage: 100.00%
+[2024-06-11 22:33:00] Total Memory: 257572 MB, Used Memory: 15517 MB, Free Memory: 242055 MB
+[2024-06-11 22:33:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:33:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:33:10] CPU Usage: 100.00%
+[2024-06-11 22:33:10] Total Memory: 257572 MB, Used Memory: 15526 MB, Free Memory: 242045 MB
+[2024-06-11 22:33:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:33:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:33:20] CPU Usage: 100.00%
+[2024-06-11 22:33:20] Total Memory: 257572 MB, Used Memory: 15521 MB, Free Memory: 242050 MB
+[2024-06-11 22:33:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:33:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:33:30] CPU Usage: 100.00%
+[2024-06-11 22:33:30] Total Memory: 257572 MB, Used Memory: 15546 MB, Free Memory: 242026 MB
+[2024-06-11 22:33:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:33:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:33:40] CPU Usage: 100.00%
+[2024-06-11 22:33:40] Total Memory: 257572 MB, Used Memory: 15580 MB, Free Memory: 241992 MB
+[2024-06-11 22:33:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:33:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:33:50] CPU Usage: 100.00%
+[2024-06-11 22:33:50] Total Memory: 257572 MB, Used Memory: 15570 MB, Free Memory: 242001 MB
+[2024-06-11 22:33:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:33:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:34:00] CPU Usage: 100.00%
+[2024-06-11 22:34:00] Total Memory: 257572 MB, Used Memory: 15560 MB, Free Memory: 242011 MB
+[2024-06-11 22:34:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:34:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:34:10] CPU Usage: 100.00%
+[2024-06-11 22:34:10] Total Memory: 257572 MB, Used Memory: 15537 MB, Free Memory: 242034 MB
+[2024-06-11 22:34:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:34:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:34:21] CPU Usage: 100.00%
+[2024-06-11 22:34:21] Total Memory: 257572 MB, Used Memory: 15540 MB, Free Memory: 242031 MB
+[2024-06-11 22:34:21] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:34:21] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:34:31] CPU Usage: 100.00%
+[2024-06-11 22:34:31] Total Memory: 257572 MB, Used Memory: 15492 MB, Free Memory: 242080 MB
+[2024-06-11 22:34:31] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:34:31] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:34:41] CPU Usage: 100.00%
+[2024-06-11 22:34:41] Total Memory: 257572 MB, Used Memory: 15490 MB, Free Memory: 242082 MB
+[2024-06-11 22:34:41] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:34:41] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:34:51] CPU Usage: 100.00%
+[2024-06-11 22:34:51] Total Memory: 257572 MB, Used Memory: 15483 MB, Free Memory: 242089 MB
+[2024-06-11 22:34:51] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:34:51] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:35:01] CPU Usage: 100.00%
+[2024-06-11 22:35:01] Total Memory: 257572 MB, Used Memory: 15477 MB, Free Memory: 242095 MB
+[2024-06-11 22:35:01] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:35:01] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:35:11] CPU Usage: 100.00%
+[2024-06-11 22:35:11] Total Memory: 257572 MB, Used Memory: 15475 MB, Free Memory: 242096 MB
+[2024-06-11 22:35:11] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:35:11] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:35:21] CPU Usage: 100.00%
+[2024-06-11 22:35:21] Total Memory: 257572 MB, Used Memory: 15489 MB, Free Memory: 242082 MB
+[2024-06-11 22:35:21] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:35:21] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:36:17] CPU Usage: 0.29%
+[2024-06-11 22:36:17] Total Memory: 257572 MB, Used Memory: 15525 MB, Free Memory: 242046 MB
+[2024-06-11 22:36:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:36:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:36:27] CPU Usage: 100.00%
+[2024-06-11 22:36:27] Total Memory: 257572 MB, Used Memory: 15510 MB, Free Memory: 242061 MB
+[2024-06-11 22:36:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:36:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:36:37] CPU Usage: 100.00%
+[2024-06-11 22:36:37] Total Memory: 257572 MB, Used Memory: 15541 MB, Free Memory: 242031 MB
+[2024-06-11 22:36:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:36:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:37:11] CPU Usage: 0.30%
+[2024-06-11 22:37:11] Total Memory: 257572 MB, Used Memory: 15497 MB, Free Memory: 242074 MB
+[2024-06-11 22:37:11] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:37:11] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:37:21] CPU Usage: 100.00%
+[2024-06-11 22:37:21] Total Memory: 257572 MB, Used Memory: 15488 MB, Free Memory: 242083 MB
+[2024-06-11 22:37:21] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:37:21] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:37:31] CPU Usage: 100.00%
+[2024-06-11 22:37:31] Total Memory: 257572 MB, Used Memory: 15487 MB, Free Memory: 242084 MB
+[2024-06-11 22:37:31] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:37:31] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:38:36] CPU Usage: 0.31%
+[2024-06-11 22:38:36] Total Memory: 257572 MB, Used Memory: 15506 MB, Free Memory: 242066 MB
+[2024-06-11 22:38:36] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:38:36] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:38:46] CPU Usage: 100.00%
+[2024-06-11 22:38:46] Total Memory: 257572 MB, Used Memory: 15512 MB, Free Memory: 242059 MB
+[2024-06-11 22:38:46] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:38:46] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:40:32] CPU Usage: 0.33%
+[2024-06-11 22:40:32] Total Memory: 257572 MB, Used Memory: 15514 MB, Free Memory: 242057 MB
+[2024-06-11 22:40:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:40:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:42:24] CPU Usage: 0.35%
+[2024-06-11 22:42:24] Total Memory: 257572 MB, Used Memory: 15560 MB, Free Memory: 242012 MB
+[2024-06-11 22:42:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:42:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:42:34] CPU Usage: 100.00%
+[2024-06-11 22:42:34] Total Memory: 257572 MB, Used Memory: 15545 MB, Free Memory: 242026 MB
+[2024-06-11 22:42:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:42:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:42:44] CPU Usage: 100.00%
+[2024-06-11 22:42:44] Total Memory: 257572 MB, Used Memory: 15522 MB, Free Memory: 242050 MB
+[2024-06-11 22:42:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:42:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:43:10] CPU Usage: 0.36%
+[2024-06-11 22:43:10] Total Memory: 257572 MB, Used Memory: 15524 MB, Free Memory: 242047 MB
+[2024-06-11 22:43:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:43:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:43:20] CPU Usage: 100.00%
+[2024-06-11 22:43:20] Total Memory: 257572 MB, Used Memory: 15499 MB, Free Memory: 242073 MB
+[2024-06-11 22:43:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:43:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:43:30] CPU Usage: 100.00%
+[2024-06-11 22:43:30] Total Memory: 257572 MB, Used Memory: 15480 MB, Free Memory: 242091 MB
+[2024-06-11 22:43:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:43:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:47:10] CPU Usage: 0.41%
+[2024-06-11 22:47:10] Total Memory: 257572 MB, Used Memory: 15575 MB, Free Memory: 241996 MB
+[2024-06-11 22:47:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:47:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:47:20] CPU Usage: 100.00%
+[2024-06-11 22:47:20] Total Memory: 257572 MB, Used Memory: 15547 MB, Free Memory: 242024 MB
+[2024-06-11 22:47:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:47:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:47:30] CPU Usage: 100.00%
+[2024-06-11 22:47:30] Total Memory: 257572 MB, Used Memory: 15523 MB, Free Memory: 242049 MB
+[2024-06-11 22:47:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:47:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:49:07] CPU Usage: 0.43%
+[2024-06-11 22:49:07] Total Memory: 257572 MB, Used Memory: 15595 MB, Free Memory: 241976 MB
+[2024-06-11 22:49:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:49:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:49:17] CPU Usage: 100.00%
+[2024-06-11 22:49:17] Total Memory: 257572 MB, Used Memory: 15595 MB, Free Memory: 241976 MB
+[2024-06-11 22:49:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:49:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:49:27] CPU Usage: 100.00%
+[2024-06-11 22:49:27] Total Memory: 257572 MB, Used Memory: 15583 MB, Free Memory: 241989 MB
+[2024-06-11 22:49:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:49:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:51:43] CPU Usage: 0.45%
+[2024-06-11 22:51:43] Total Memory: 257572 MB, Used Memory: 15480 MB, Free Memory: 242092 MB
+[2024-06-11 22:51:43] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:51:43] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:54:29] CPU Usage: 0.48%
+[2024-06-11 22:54:29] Total Memory: 257572 MB, Used Memory: 15527 MB, Free Memory: 242044 MB
+[2024-06-11 22:54:29] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:54:29] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:54:39] CPU Usage: 100.00%
+[2024-06-11 22:54:39] Total Memory: 257572 MB, Used Memory: 15525 MB, Free Memory: 242047 MB
+[2024-06-11 22:54:39] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:54:39] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:54:49] CPU Usage: 100.00%
+[2024-06-11 22:54:49] Total Memory: 257572 MB, Used Memory: 15515 MB, Free Memory: 242057 MB
+[2024-06-11 22:54:49] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:54:49] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:57:24] CPU Usage: 0.52%
+[2024-06-11 22:57:24] Total Memory: 257572 MB, Used Memory: 15505 MB, Free Memory: 242067 MB
+[2024-06-11 22:57:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:57:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:57:34] CPU Usage: 100.00%
+[2024-06-11 22:57:34] Total Memory: 257572 MB, Used Memory: 15511 MB, Free Memory: 242061 MB
+[2024-06-11 22:57:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:57:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:57:44] CPU Usage: 100.00%
+[2024-06-11 22:57:44] Total Memory: 257572 MB, Used Memory: 15539 MB, Free Memory: 242032 MB
+[2024-06-11 22:57:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 22:57:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:00:59] CPU Usage: 0.55%
+[2024-06-11 23:00:59] Total Memory: 257572 MB, Used Memory: 15498 MB, Free Memory: 242073 MB
+[2024-06-11 23:00:59] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:00:59] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:01:09] CPU Usage: 100.00%
+[2024-06-11 23:01:09] Total Memory: 257572 MB, Used Memory: 15494 MB, Free Memory: 242077 MB
+[2024-06-11 23:01:09] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:01:09] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:01:19] CPU Usage: 100.00%
+[2024-06-11 23:01:19] Total Memory: 257572 MB, Used Memory: 15492 MB, Free Memory: 242080 MB
+[2024-06-11 23:01:19] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:01:19] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:01:50] CPU Usage: 0.56%
+[2024-06-11 23:01:50] Total Memory: 257572 MB, Used Memory: 15527 MB, Free Memory: 242045 MB
+[2024-06-11 23:01:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:01:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:02:00] CPU Usage: 100.00%
+[2024-06-11 23:02:00] Total Memory: 257572 MB, Used Memory: 15537 MB, Free Memory: 242035 MB
+[2024-06-11 23:02:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:02:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:02:10] CPU Usage: 100.00%
+[2024-06-11 23:02:10] Total Memory: 257572 MB, Used Memory: 15538 MB, Free Memory: 242034 MB
+[2024-06-11 23:02:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:02:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:03:46] CPU Usage: 0.58%
+[2024-06-11 23:03:46] Total Memory: 257572 MB, Used Memory: 15509 MB, Free Memory: 242062 MB
+[2024-06-11 23:03:46] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:03:46] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:03:56] CPU Usage: 100.00%
+[2024-06-11 23:03:56] Total Memory: 257572 MB, Used Memory: 15506 MB, Free Memory: 242065 MB
+[2024-06-11 23:03:56] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:03:56] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:04:06] CPU Usage: 100.00%
+[2024-06-11 23:04:06] Total Memory: 257572 MB, Used Memory: 15510 MB, Free Memory: 242062 MB
+[2024-06-11 23:04:06] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:04:06] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:59:08] CPU Usage: 0.62%
+[2024-06-11 23:59:08] Total Memory: 257572 MB, Used Memory: 15502 MB, Free Memory: 242070 MB
+[2024-06-11 23:59:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:59:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:59:18] CPU Usage: 0.14%
+[2024-06-11 23:59:18] Total Memory: 257572 MB, Used Memory: 15504 MB, Free Memory: 242068 MB
+[2024-06-11 23:59:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:59:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:59:28] CPU Usage: 0.12%
+[2024-06-11 23:59:28] Total Memory: 257572 MB, Used Memory: 15489 MB, Free Memory: 242082 MB
+[2024-06-11 23:59:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-11 23:59:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:00:47] CPU Usage: 0.62%
+[2024-06-12 00:00:47] Total Memory: 257572 MB, Used Memory: 15513 MB, Free Memory: 242059 MB
+[2024-06-12 00:00:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:00:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:00:57] CPU Usage: 0.16%
+[2024-06-12 00:00:57] Total Memory: 257572 MB, Used Memory: 15498 MB, Free Memory: 242074 MB
+[2024-06-12 00:00:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:00:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:01:07] CPU Usage: 0.18%
+[2024-06-12 00:01:07] Total Memory: 257572 MB, Used Memory: 15502 MB, Free Memory: 242070 MB
+[2024-06-12 00:01:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:01:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:04:42] CPU Usage: 0.62%
+[2024-06-12 00:04:42] Total Memory: 257572 MB, Used Memory: 15514 MB, Free Memory: 242057 MB
+[2024-06-12 00:04:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:04:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:04:52] CPU Usage: 0.08%
+[2024-06-12 00:04:52] Total Memory: 257572 MB, Used Memory: 15516 MB, Free Memory: 242055 MB
+[2024-06-12 00:04:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:04:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:05:02] CPU Usage: 0.09%
+[2024-06-12 00:05:02] Total Memory: 257572 MB, Used Memory: 15521 MB, Free Memory: 242051 MB
+[2024-06-12 00:05:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:05:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:05:12] CPU Usage: 0.09%
+[2024-06-12 00:05:12] Total Memory: 257572 MB, Used Memory: 15528 MB, Free Memory: 242044 MB
+[2024-06-12 00:05:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:05:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:07:03] CPU Usage: 0.62%
+[2024-06-12 00:07:03] Total Memory: 257572 MB, Used Memory: 15481 MB, Free Memory: 242090 MB
+[2024-06-12 00:07:03] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:07:03] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:07:13] CPU Usage: 0.09%
+[2024-06-12 00:07:13] Total Memory: 257572 MB, Used Memory: 15484 MB, Free Memory: 242088 MB
+[2024-06-12 00:07:13] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:07:13] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:07:23] CPU Usage: 0.09%
+[2024-06-12 00:07:23] Total Memory: 257572 MB, Used Memory: 15482 MB, Free Memory: 242090 MB
+[2024-06-12 00:07:23] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:07:23] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:07:53] CPU Usage: 0.62%
+[2024-06-12 00:07:53] Total Memory: 257572 MB, Used Memory: 15448 MB, Free Memory: 242123 MB
+[2024-06-12 00:07:53] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:07:53] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:08:03] CPU Usage: 0.09%
+[2024-06-12 00:08:03] Total Memory: 257572 MB, Used Memory: 15448 MB, Free Memory: 242123 MB
+[2024-06-12 00:08:03] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:08:03] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:08:13] CPU Usage: 0.08%
+[2024-06-12 00:08:13] Total Memory: 257572 MB, Used Memory: 15457 MB, Free Memory: 242115 MB
+[2024-06-12 00:08:13] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:08:13] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:08:23] CPU Usage: 0.11%
+[2024-06-12 00:08:23] Total Memory: 257572 MB, Used Memory: 15451 MB, Free Memory: 242120 MB
+[2024-06-12 00:08:23] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:08:23] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:08:33] CPU Usage: 0.10%
+[2024-06-12 00:08:33] Total Memory: 257572 MB, Used Memory: 15451 MB, Free Memory: 242121 MB
+[2024-06-12 00:08:33] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:08:33] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:09:00] CPU Usage: 0.62%
+[2024-06-12 00:09:00] Total Memory: 257572 MB, Used Memory: 15444 MB, Free Memory: 242127 MB
+[2024-06-12 00:09:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:09:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:09:10] CPU Usage: 0.12%
+[2024-06-12 00:09:10] Total Memory: 257572 MB, Used Memory: 15442 MB, Free Memory: 242130 MB
+[2024-06-12 00:09:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:09:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:09:20] CPU Usage: 0.09%
+[2024-06-12 00:09:20] Total Memory: 257572 MB, Used Memory: 15446 MB, Free Memory: 242126 MB
+[2024-06-12 00:09:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:09:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:12:01] CPU Usage: 0.62%
+[2024-06-12 00:12:01] Total Memory: 257572 MB, Used Memory: 15561 MB, Free Memory: 242011 MB
+[2024-06-12 00:12:01] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:12:01] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:12:11] CPU Usage: 0.10%
+[2024-06-12 00:12:11] Total Memory: 257572 MB, Used Memory: 15560 MB, Free Memory: 242011 MB
+[2024-06-12 00:12:11] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:12:11] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:14:36] CPU Usage: 0.62%
+[2024-06-12 00:14:36] Total Memory: 257572 MB, Used Memory: 15483 MB, Free Memory: 242088 MB
+[2024-06-12 00:14:36] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:14:36] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:14:46] CPU Usage: 0.09%
+[2024-06-12 00:14:46] Total Memory: 257572 MB, Used Memory: 15491 MB, Free Memory: 242081 MB
+[2024-06-12 00:14:46] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:14:46] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:14:56] CPU Usage: 0.09%
+[2024-06-12 00:14:56] Total Memory: 257572 MB, Used Memory: 15493 MB, Free Memory: 242079 MB
+[2024-06-12 00:14:56] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:14:56] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:19:38] CPU Usage: 0.62%
+[2024-06-12 00:19:38] Total Memory: 257572 MB, Used Memory: 15502 MB, Free Memory: 242069 MB
+[2024-06-12 00:19:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:19:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:19:48] CPU Usage: 0.09%
+[2024-06-12 00:19:48] Total Memory: 257572 MB, Used Memory: 15502 MB, Free Memory: 242070 MB
+[2024-06-12 00:19:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:19:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:19:58] CPU Usage: 0.09%
+[2024-06-12 00:19:58] Total Memory: 257572 MB, Used Memory: 15503 MB, Free Memory: 242069 MB
+[2024-06-12 00:19:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:19:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:20:08] CPU Usage: 0.09%
+[2024-06-12 00:20:08] Total Memory: 257572 MB, Used Memory: 15502 MB, Free Memory: 242069 MB
+[2024-06-12 00:20:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:20:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:20:18] CPU Usage: 0.09%
+[2024-06-12 00:20:18] Total Memory: 257572 MB, Used Memory: 15507 MB, Free Memory: 242065 MB
+[2024-06-12 00:20:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:20:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:20:28] CPU Usage: 0.09%
+[2024-06-12 00:20:28] Total Memory: 257572 MB, Used Memory: 15500 MB, Free Memory: 242071 MB
+[2024-06-12 00:20:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:20:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:20:38] CPU Usage: 0.09%
+[2024-06-12 00:20:38] Total Memory: 257572 MB, Used Memory: 15504 MB, Free Memory: 242068 MB
+[2024-06-12 00:20:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:20:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:20:48] CPU Usage: 0.08%
+[2024-06-12 00:20:48] Total Memory: 257572 MB, Used Memory: 15501 MB, Free Memory: 242070 MB
+[2024-06-12 00:20:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:20:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:20:58] CPU Usage: 0.08%
+[2024-06-12 00:20:58] Total Memory: 257572 MB, Used Memory: 15500 MB, Free Memory: 242072 MB
+[2024-06-12 00:20:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:20:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:21:08] CPU Usage: 0.09%
+[2024-06-12 00:21:08] Total Memory: 257572 MB, Used Memory: 15497 MB, Free Memory: 242074 MB
+[2024-06-12 00:21:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:21:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:21:18] CPU Usage: 0.09%
+[2024-06-12 00:21:18] Total Memory: 257572 MB, Used Memory: 15500 MB, Free Memory: 242072 MB
+[2024-06-12 00:21:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:21:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:21:28] CPU Usage: 0.08%
+[2024-06-12 00:21:28] Total Memory: 257572 MB, Used Memory: 15502 MB, Free Memory: 242069 MB
+[2024-06-12 00:21:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:21:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:21:38] CPU Usage: 0.09%
+[2024-06-12 00:21:38] Total Memory: 257572 MB, Used Memory: 15499 MB, Free Memory: 242072 MB
+[2024-06-12 00:21:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:21:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:21:48] CPU Usage: 0.08%
+[2024-06-12 00:21:48] Total Memory: 257572 MB, Used Memory: 15489 MB, Free Memory: 242082 MB
+[2024-06-12 00:21:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:21:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:21:58] CPU Usage: 0.09%
+[2024-06-12 00:21:58] Total Memory: 257572 MB, Used Memory: 15492 MB, Free Memory: 242080 MB
+[2024-06-12 00:21:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:21:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:22:08] CPU Usage: 0.11%
+[2024-06-12 00:22:08] Total Memory: 257572 MB, Used Memory: 15497 MB, Free Memory: 242074 MB
+[2024-06-12 00:22:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:22:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:22:18] CPU Usage: 0.16%
+[2024-06-12 00:22:18] Total Memory: 257572 MB, Used Memory: 15500 MB, Free Memory: 242071 MB
+[2024-06-12 00:22:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:22:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:22:28] CPU Usage: 0.14%
+[2024-06-12 00:22:28] Total Memory: 257572 MB, Used Memory: 15509 MB, Free Memory: 242063 MB
+[2024-06-12 00:22:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:22:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:22:38] CPU Usage: 0.09%
+[2024-06-12 00:22:38] Total Memory: 257572 MB, Used Memory: 15508 MB, Free Memory: 242063 MB
+[2024-06-12 00:22:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:22:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:22:48] CPU Usage: 0.08%
+[2024-06-12 00:22:48] Total Memory: 257572 MB, Used Memory: 15514 MB, Free Memory: 242057 MB
+[2024-06-12 00:22:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:22:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:22:58] CPU Usage: 0.09%
+[2024-06-12 00:22:58] Total Memory: 257572 MB, Used Memory: 15505 MB, Free Memory: 242067 MB
+[2024-06-12 00:22:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:22:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:23:08] CPU Usage: 0.09%
+[2024-06-12 00:23:08] Total Memory: 257572 MB, Used Memory: 15507 MB, Free Memory: 242065 MB
+[2024-06-12 00:23:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:23:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:23:18] CPU Usage: 0.09%
+[2024-06-12 00:23:18] Total Memory: 257572 MB, Used Memory: 15510 MB, Free Memory: 242061 MB
+[2024-06-12 00:23:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:23:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:23:28] CPU Usage: 0.09%
+[2024-06-12 00:23:28] Total Memory: 257572 MB, Used Memory: 15517 MB, Free Memory: 242055 MB
+[2024-06-12 00:23:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:23:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:23:38] CPU Usage: 0.09%
+[2024-06-12 00:23:38] Total Memory: 257572 MB, Used Memory: 15508 MB, Free Memory: 242063 MB
+[2024-06-12 00:23:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:23:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:23:48] CPU Usage: 0.10%
+[2024-06-12 00:23:48] Total Memory: 257572 MB, Used Memory: 15504 MB, Free Memory: 242067 MB
+[2024-06-12 00:23:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:23:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:23:58] CPU Usage: 0.09%
+[2024-06-12 00:23:58] Total Memory: 257572 MB, Used Memory: 15512 MB, Free Memory: 242059 MB
+[2024-06-12 00:23:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:23:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:24:08] CPU Usage: 0.09%
+[2024-06-12 00:24:08] Total Memory: 257572 MB, Used Memory: 15505 MB, Free Memory: 242066 MB
+[2024-06-12 00:24:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:24:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:24:18] CPU Usage: 0.09%
+[2024-06-12 00:24:18] Total Memory: 257572 MB, Used Memory: 15505 MB, Free Memory: 242066 MB
+[2024-06-12 00:24:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:24:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:24:28] CPU Usage: 0.11%
+[2024-06-12 00:24:28] Total Memory: 257572 MB, Used Memory: 15498 MB, Free Memory: 242073 MB
+[2024-06-12 00:24:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:24:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:24:38] CPU Usage: 0.14%
+[2024-06-12 00:24:38] Total Memory: 257572 MB, Used Memory: 15501 MB, Free Memory: 242070 MB
+[2024-06-12 00:24:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:24:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:24:48] CPU Usage: 0.12%
+[2024-06-12 00:24:48] Total Memory: 257572 MB, Used Memory: 15526 MB, Free Memory: 242045 MB
+[2024-06-12 00:24:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:24:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:24:58] CPU Usage: 0.26%
+[2024-06-12 00:24:58] Total Memory: 257572 MB, Used Memory: 15606 MB, Free Memory: 241965 MB
+[2024-06-12 00:24:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:24:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:25:08] CPU Usage: 0.22%
+[2024-06-12 00:25:08] Total Memory: 257572 MB, Used Memory: 15573 MB, Free Memory: 241999 MB
+[2024-06-12 00:25:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:25:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:25:18] CPU Usage: 0.15%
+[2024-06-12 00:25:18] Total Memory: 257572 MB, Used Memory: 15551 MB, Free Memory: 242021 MB
+[2024-06-12 00:25:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:25:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:25:28] CPU Usage: 0.11%
+[2024-06-12 00:25:28] Total Memory: 257572 MB, Used Memory: 15540 MB, Free Memory: 242032 MB
+[2024-06-12 00:25:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:25:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:25:38] CPU Usage: 0.15%
+[2024-06-12 00:25:38] Total Memory: 257572 MB, Used Memory: 15513 MB, Free Memory: 242058 MB
+[2024-06-12 00:25:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:25:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:25:48] CPU Usage: 0.12%
+[2024-06-12 00:25:48] Total Memory: 257572 MB, Used Memory: 15494 MB, Free Memory: 242078 MB
+[2024-06-12 00:25:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:25:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:25:58] CPU Usage: 0.08%
+[2024-06-12 00:25:58] Total Memory: 257572 MB, Used Memory: 15491 MB, Free Memory: 242080 MB
+[2024-06-12 00:25:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:25:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:26:08] CPU Usage: 0.09%
+[2024-06-12 00:26:08] Total Memory: 257572 MB, Used Memory: 15489 MB, Free Memory: 242082 MB
+[2024-06-12 00:26:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:26:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:26:18] CPU Usage: 0.09%
+[2024-06-12 00:26:18] Total Memory: 257572 MB, Used Memory: 15486 MB, Free Memory: 242085 MB
+[2024-06-12 00:26:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:26:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:26:28] CPU Usage: 0.15%
+[2024-06-12 00:26:28] Total Memory: 257572 MB, Used Memory: 15488 MB, Free Memory: 242084 MB
+[2024-06-12 00:26:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:26:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:26:38] CPU Usage: 0.33%
+[2024-06-12 00:26:38] Total Memory: 257572 MB, Used Memory: 15512 MB, Free Memory: 242060 MB
+[2024-06-12 00:26:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:26:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:26:48] CPU Usage: 0.15%
+[2024-06-12 00:26:48] Total Memory: 257572 MB, Used Memory: 15496 MB, Free Memory: 242075 MB
+[2024-06-12 00:26:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:26:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:26:58] CPU Usage: 0.25%
+[2024-06-12 00:26:58] Total Memory: 257572 MB, Used Memory: 15540 MB, Free Memory: 242032 MB
+[2024-06-12 00:26:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:26:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:27:08] CPU Usage: 0.25%
+[2024-06-12 00:27:08] Total Memory: 257572 MB, Used Memory: 15527 MB, Free Memory: 242044 MB
+[2024-06-12 00:27:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:27:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:27:18] CPU Usage: 0.29%
+[2024-06-12 00:27:18] Total Memory: 257572 MB, Used Memory: 15532 MB, Free Memory: 242039 MB
+[2024-06-12 00:27:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:27:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:27:28] CPU Usage: 0.14%
+[2024-06-12 00:27:28] Total Memory: 257572 MB, Used Memory: 15528 MB, Free Memory: 242043 MB
+[2024-06-12 00:27:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:27:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:27:38] CPU Usage: 0.25%
+[2024-06-12 00:27:38] Total Memory: 257572 MB, Used Memory: 15518 MB, Free Memory: 242054 MB
+[2024-06-12 00:27:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:27:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:27:48] CPU Usage: 0.13%
+[2024-06-12 00:27:48] Total Memory: 257572 MB, Used Memory: 15531 MB, Free Memory: 242040 MB
+[2024-06-12 00:27:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:27:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:27:58] CPU Usage: 0.12%
+[2024-06-12 00:27:58] Total Memory: 257572 MB, Used Memory: 15534 MB, Free Memory: 242038 MB
+[2024-06-12 00:27:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:27:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:28:08] CPU Usage: 0.17%
+[2024-06-12 00:28:08] Total Memory: 257572 MB, Used Memory: 15544 MB, Free Memory: 242028 MB
+[2024-06-12 00:28:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:28:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:28:18] CPU Usage: 0.20%
+[2024-06-12 00:28:18] Total Memory: 257572 MB, Used Memory: 15541 MB, Free Memory: 242030 MB
+[2024-06-12 00:28:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:28:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:28:28] CPU Usage: 0.08%
+[2024-06-12 00:28:28] Total Memory: 257572 MB, Used Memory: 15552 MB, Free Memory: 242020 MB
+[2024-06-12 00:28:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:28:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:28:38] CPU Usage: 0.14%
+[2024-06-12 00:28:38] Total Memory: 257572 MB, Used Memory: 15490 MB, Free Memory: 242082 MB
+[2024-06-12 00:28:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:28:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:28:48] CPU Usage: 0.23%
+[2024-06-12 00:28:48] Total Memory: 257572 MB, Used Memory: 15503 MB, Free Memory: 242069 MB
+[2024-06-12 00:28:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:28:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:28:58] CPU Usage: 0.25%
+[2024-06-12 00:28:58] Total Memory: 257572 MB, Used Memory: 15518 MB, Free Memory: 242053 MB
+[2024-06-12 00:28:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:28:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:29:08] CPU Usage: 0.15%
+[2024-06-12 00:29:08] Total Memory: 257572 MB, Used Memory: 15511 MB, Free Memory: 242060 MB
+[2024-06-12 00:29:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:29:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:29:18] CPU Usage: 0.22%
+[2024-06-12 00:29:18] Total Memory: 257572 MB, Used Memory: 15533 MB, Free Memory: 242038 MB
+[2024-06-12 00:29:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:29:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:32:27] CPU Usage: 0.62%
+[2024-06-12 00:32:27] Total Memory: 257572 MB, Used Memory: 15557 MB, Free Memory: 242014 MB
+[2024-06-12 00:32:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:32:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:32:37] CPU Usage: 0.16%
+[2024-06-12 00:32:37] Total Memory: 257572 MB, Used Memory: 15563 MB, Free Memory: 242008 MB
+[2024-06-12 00:32:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:32:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:32:47] CPU Usage: 0.06%
+[2024-06-12 00:32:47] Total Memory: 257572 MB, Used Memory: 15565 MB, Free Memory: 242007 MB
+[2024-06-12 00:32:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:32:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:35:32] CPU Usage: 0.62%
+[2024-06-12 00:35:32] Total Memory: 257572 MB, Used Memory: 15512 MB, Free Memory: 242060 MB
+[2024-06-12 00:35:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:35:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:35:42] CPU Usage: 0.19%
+[2024-06-12 00:35:42] Total Memory: 257572 MB, Used Memory: 15481 MB, Free Memory: 242090 MB
+[2024-06-12 00:35:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:35:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:35:52] CPU Usage: 0.16%
+[2024-06-12 00:35:52] Total Memory: 257572 MB, Used Memory: 15485 MB, Free Memory: 242086 MB
+[2024-06-12 00:35:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:35:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:40:43] CPU Usage: 0.62%
+[2024-06-12 00:40:43] Total Memory: 257572 MB, Used Memory: 15592 MB, Free Memory: 241979 MB
+[2024-06-12 00:40:43] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:40:43] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:40:53] CPU Usage: 0.10%
+[2024-06-12 00:40:53] Total Memory: 257572 MB, Used Memory: 15587 MB, Free Memory: 241985 MB
+[2024-06-12 00:40:53] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:40:53] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:41:03] CPU Usage: 0.10%
+[2024-06-12 00:41:03] Total Memory: 257572 MB, Used Memory: 15597 MB, Free Memory: 241974 MB
+[2024-06-12 00:41:03] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:41:03] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:41:13] CPU Usage: 0.10%
+[2024-06-12 00:41:13] Total Memory: 257572 MB, Used Memory: 15597 MB, Free Memory: 241974 MB
+[2024-06-12 00:41:13] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:41:13] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:41:23] CPU Usage: 0.09%
+[2024-06-12 00:41:23] Total Memory: 257572 MB, Used Memory: 15597 MB, Free Memory: 241975 MB
+[2024-06-12 00:41:23] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:41:23] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:41:33] CPU Usage: 0.14%
+[2024-06-12 00:41:33] Total Memory: 257572 MB, Used Memory: 15582 MB, Free Memory: 241990 MB
+[2024-06-12 00:41:33] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:41:33] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:41:43] CPU Usage: 0.12%
+[2024-06-12 00:41:43] Total Memory: 257572 MB, Used Memory: 15582 MB, Free Memory: 241990 MB
+[2024-06-12 00:41:43] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:41:43] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:41:53] CPU Usage: 0.09%
+[2024-06-12 00:41:53] Total Memory: 257572 MB, Used Memory: 15571 MB, Free Memory: 242000 MB
+[2024-06-12 00:41:53] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:41:53] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:42:03] CPU Usage: 0.32%
+[2024-06-12 00:42:03] Total Memory: 257572 MB, Used Memory: 15565 MB, Free Memory: 242006 MB
+[2024-06-12 00:42:03] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:42:03] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:42:38] CPU Usage: 0.62%
+[2024-06-12 00:42:38] Total Memory: 257572 MB, Used Memory: 15557 MB, Free Memory: 242015 MB
+[2024-06-12 00:42:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:42:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:42:48] CPU Usage: 0.10%
+[2024-06-12 00:42:48] Total Memory: 257572 MB, Used Memory: 15550 MB, Free Memory: 242021 MB
+[2024-06-12 00:42:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:42:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:42:58] CPU Usage: 0.10%
+[2024-06-12 00:42:58] Total Memory: 257572 MB, Used Memory: 15558 MB, Free Memory: 242014 MB
+[2024-06-12 00:42:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:42:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:43:08] CPU Usage: 0.09%
+[2024-06-12 00:43:08] Total Memory: 257572 MB, Used Memory: 15553 MB, Free Memory: 242018 MB
+[2024-06-12 00:43:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:43:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:43:18] CPU Usage: 0.09%
+[2024-06-12 00:43:18] Total Memory: 257572 MB, Used Memory: 15559 MB, Free Memory: 242013 MB
+[2024-06-12 00:43:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:43:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:43:28] CPU Usage: 0.08%
+[2024-06-12 00:43:28] Total Memory: 257572 MB, Used Memory: 15552 MB, Free Memory: 242019 MB
+[2024-06-12 00:43:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:43:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:43:38] CPU Usage: 0.10%
+[2024-06-12 00:43:38] Total Memory: 257572 MB, Used Memory: 15554 MB, Free Memory: 242018 MB
+[2024-06-12 00:43:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:43:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:43:48] CPU Usage: 0.08%
+[2024-06-12 00:43:48] Total Memory: 257572 MB, Used Memory: 15558 MB, Free Memory: 242013 MB
+[2024-06-12 00:43:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:43:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:45:04] CPU Usage: 0.62%
+[2024-06-12 00:45:04] Total Memory: 257572 MB, Used Memory: 15505 MB, Free Memory: 242067 MB
+[2024-06-12 00:45:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:45:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:45:14] CPU Usage: 0.09%
+[2024-06-12 00:45:14] Total Memory: 257572 MB, Used Memory: 15510 MB, Free Memory: 242061 MB
+[2024-06-12 00:45:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:45:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:45:24] CPU Usage: 0.09%
+[2024-06-12 00:45:24] Total Memory: 257572 MB, Used Memory: 15519 MB, Free Memory: 242052 MB
+[2024-06-12 00:45:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:45:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:45:34] CPU Usage: 0.09%
+[2024-06-12 00:45:34] Total Memory: 257572 MB, Used Memory: 15523 MB, Free Memory: 242048 MB
+[2024-06-12 00:45:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:45:34] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:45:44] CPU Usage: 0.09%
+[2024-06-12 00:45:44] Total Memory: 257572 MB, Used Memory: 15524 MB, Free Memory: 242048 MB
+[2024-06-12 00:45:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:45:44] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:46:41] CPU Usage: 0.62%
+[2024-06-12 00:46:41] Total Memory: 257572 MB, Used Memory: 15526 MB, Free Memory: 242045 MB
+[2024-06-12 00:46:41] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:46:41] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:46:51] CPU Usage: 0.08%
+[2024-06-12 00:46:51] Total Memory: 257572 MB, Used Memory: 15535 MB, Free Memory: 242037 MB
+[2024-06-12 00:46:51] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:46:51] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:47:01] CPU Usage: 0.12%
+[2024-06-12 00:47:01] Total Memory: 257572 MB, Used Memory: 15533 MB, Free Memory: 242039 MB
+[2024-06-12 00:47:01] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:47:01] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:48:19] CPU Usage: 0.62%
+[2024-06-12 00:48:19] Total Memory: 257572 MB, Used Memory: 15505 MB, Free Memory: 242066 MB
+[2024-06-12 00:48:19] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:48:19] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:48:29] CPU Usage: 0.10%
+[2024-06-12 00:48:29] Total Memory: 257572 MB, Used Memory: 15506 MB, Free Memory: 242065 MB
+[2024-06-12 00:48:29] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:48:29] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:48:39] CPU Usage: 0.09%
+[2024-06-12 00:48:39] Total Memory: 257572 MB, Used Memory: 15511 MB, Free Memory: 242061 MB
+[2024-06-12 00:48:39] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:48:39] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:49:52] CPU Usage: 0.62%
+[2024-06-12 00:49:52] Total Memory: 257572 MB, Used Memory: 15530 MB, Free Memory: 242041 MB
+[2024-06-12 00:49:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:49:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:50:02] CPU Usage: 0.11%
+[2024-06-12 00:50:02] Total Memory: 257572 MB, Used Memory: 15537 MB, Free Memory: 242034 MB
+[2024-06-12 00:50:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:50:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:50:12] CPU Usage: 0.10%
+[2024-06-12 00:50:12] Total Memory: 257572 MB, Used Memory: 15536 MB, Free Memory: 242036 MB
+[2024-06-12 00:50:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:50:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:50:22] CPU Usage: 0.08%
+[2024-06-12 00:50:22] Total Memory: 257572 MB, Used Memory: 15537 MB, Free Memory: 242034 MB
+[2024-06-12 00:50:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:50:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:50:32] CPU Usage: 0.09%
+[2024-06-12 00:50:32] Total Memory: 257572 MB, Used Memory: 15541 MB, Free Memory: 242030 MB
+[2024-06-12 00:50:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:50:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:50:42] CPU Usage: 0.10%
+[2024-06-12 00:50:42] Total Memory: 257572 MB, Used Memory: 15535 MB, Free Memory: 242036 MB
+[2024-06-12 00:50:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:50:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:50:52] CPU Usage: 0.09%
+[2024-06-12 00:50:52] Total Memory: 257572 MB, Used Memory: 15533 MB, Free Memory: 242038 MB
+[2024-06-12 00:50:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:50:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:51:02] CPU Usage: 0.09%
+[2024-06-12 00:51:02] Total Memory: 257572 MB, Used Memory: 15537 MB, Free Memory: 242034 MB
+[2024-06-12 00:51:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:51:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:51:12] CPU Usage: 0.09%
+[2024-06-12 00:51:12] Total Memory: 257572 MB, Used Memory: 15530 MB, Free Memory: 242041 MB
+[2024-06-12 00:51:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:51:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:53:29] CPU Usage: 0.62%
+[2024-06-12 00:53:29] Total Memory: 257572 MB, Used Memory: 15591 MB, Free Memory: 241980 MB
+[2024-06-12 00:53:29] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:53:29] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:53:39] CPU Usage: 0.10%
+[2024-06-12 00:53:39] Total Memory: 257572 MB, Used Memory: 15588 MB, Free Memory: 241984 MB
+[2024-06-12 00:53:39] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:53:39] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:53:49] CPU Usage: 0.09%
+[2024-06-12 00:53:49] Total Memory: 257572 MB, Used Memory: 15593 MB, Free Memory: 241978 MB
+[2024-06-12 00:53:49] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:53:49] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:53:59] CPU Usage: 0.08%
+[2024-06-12 00:53:59] Total Memory: 257572 MB, Used Memory: 15597 MB, Free Memory: 241974 MB
+[2024-06-12 00:53:59] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:53:59] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:54:09] CPU Usage: 0.09%
+[2024-06-12 00:54:09] Total Memory: 257572 MB, Used Memory: 15603 MB, Free Memory: 241968 MB
+[2024-06-12 00:54:09] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:54:09] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:54:19] CPU Usage: 0.08%
+[2024-06-12 00:54:19] Total Memory: 257572 MB, Used Memory: 15599 MB, Free Memory: 241973 MB
+[2024-06-12 00:54:19] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:54:19] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:54:29] CPU Usage: 0.09%
+[2024-06-12 00:54:29] Total Memory: 257572 MB, Used Memory: 15599 MB, Free Memory: 241973 MB
+[2024-06-12 00:54:29] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:54:29] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:54:39] CPU Usage: 0.09%
+[2024-06-12 00:54:39] Total Memory: 257572 MB, Used Memory: 15607 MB, Free Memory: 241964 MB
+[2024-06-12 00:54:39] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:54:39] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:54:49] CPU Usage: 0.08%
+[2024-06-12 00:54:49] Total Memory: 257572 MB, Used Memory: 15610 MB, Free Memory: 241962 MB
+[2024-06-12 00:54:49] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:54:49] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:56:06] CPU Usage: 0.62%
+[2024-06-12 00:56:06] Total Memory: 257572 MB, Used Memory: 15605 MB, Free Memory: 241966 MB
+[2024-06-12 00:56:06] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:56:06] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:56:16] CPU Usage: 0.10%
+[2024-06-12 00:56:16] Total Memory: 257572 MB, Used Memory: 15614 MB, Free Memory: 241957 MB
+[2024-06-12 00:56:16] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:56:16] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:56:26] CPU Usage: 0.08%
+[2024-06-12 00:56:26] Total Memory: 257572 MB, Used Memory: 15617 MB, Free Memory: 241954 MB
+[2024-06-12 00:56:26] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:56:26] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:56:38] CPU Usage: 0.62%
+[2024-06-12 00:56:38] Total Memory: 257572 MB, Used Memory: 15619 MB, Free Memory: 241953 MB
+[2024-06-12 00:56:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:56:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:56:48] CPU Usage: 0.08%
+[2024-06-12 00:56:48] Total Memory: 257572 MB, Used Memory: 15623 MB, Free Memory: 241949 MB
+[2024-06-12 00:56:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:56:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:56:58] CPU Usage: 0.10%
+[2024-06-12 00:56:58] Total Memory: 257572 MB, Used Memory: 15620 MB, Free Memory: 241952 MB
+[2024-06-12 00:56:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:56:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:57:08] CPU Usage: 0.11%
+[2024-06-12 00:57:08] Total Memory: 257572 MB, Used Memory: 15618 MB, Free Memory: 241953 MB
+[2024-06-12 00:57:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 00:57:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:20:27] CPU Usage: 1.58%
+[2024-06-12 20:20:27] Total Memory: 257572 MB, Used Memory: 15828 MB, Free Memory: 241743 MB
+[2024-06-12 20:20:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:20:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:20:37] CPU Usage: 0.12%
+[2024-06-12 20:20:37] Total Memory: 257572 MB, Used Memory: 15833 MB, Free Memory: 241738 MB
+[2024-06-12 20:20:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:20:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:20:47] CPU Usage: 0.13%
+[2024-06-12 20:20:47] Total Memory: 257572 MB, Used Memory: 15810 MB, Free Memory: 241761 MB
+[2024-06-12 20:20:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:20:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:20:57] CPU Usage: 0.12%
+[2024-06-12 20:20:57] Total Memory: 257572 MB, Used Memory: 15803 MB, Free Memory: 241768 MB
+[2024-06-12 20:20:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:20:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:21:07] CPU Usage: 0.14%
+[2024-06-12 20:21:07] Total Memory: 257572 MB, Used Memory: 15796 MB, Free Memory: 241775 MB
+[2024-06-12 20:21:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:21:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:40:55] CPU Usage: 1.58%
+[2024-06-12 20:40:55] Total Memory: 257572 MB, Used Memory: 15817 MB, Free Memory: 241754 MB
+[2024-06-12 20:40:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:40:55] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:41:06] CPU Usage: 0.22%
+[2024-06-12 20:41:06] Total Memory: 257572 MB, Used Memory: 15826 MB, Free Memory: 241746 MB
+[2024-06-12 20:41:06] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:41:06] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:41:16] CPU Usage: 0.07%
+[2024-06-12 20:41:16] Total Memory: 257572 MB, Used Memory: 15830 MB, Free Memory: 241741 MB
+[2024-06-12 20:41:16] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:41:16] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:45:25] CPU Usage: 1.58%
+[2024-06-12 20:45:25] Total Memory: 257572 MB, Used Memory: 15794 MB, Free Memory: 241778 MB
+[2024-06-12 20:45:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:45:25] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:50:16] CPU Usage: 1.57%
+[2024-06-12 20:50:16] Total Memory: 257572 MB, Used Memory: 15946 MB, Free Memory: 241626 MB
+[2024-06-12 20:50:16] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:50:16] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:50:26] CPU Usage: 0.08%
+[2024-06-12 20:50:26] Total Memory: 257572 MB, Used Memory: 15956 MB, Free Memory: 241616 MB
+[2024-06-12 20:50:26] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:50:26] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:50:36] CPU Usage: 0.10%
+[2024-06-12 20:50:36] Total Memory: 257572 MB, Used Memory: 15951 MB, Free Memory: 241621 MB
+[2024-06-12 20:50:36] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:50:36] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:50:46] CPU Usage: 0.08%
+[2024-06-12 20:50:46] Total Memory: 257572 MB, Used Memory: 15954 MB, Free Memory: 241617 MB
+[2024-06-12 20:50:46] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:50:46] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:53:22] CPU Usage: 1.57%
+[2024-06-12 20:53:22] Total Memory: 257572 MB, Used Memory: 15782 MB, Free Memory: 241790 MB
+[2024-06-12 20:53:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:53:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:53:32] CPU Usage: 0.10%
+[2024-06-12 20:53:32] Total Memory: 257572 MB, Used Memory: 15780 MB, Free Memory: 241791 MB
+[2024-06-12 20:53:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:53:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:53:42] CPU Usage: 0.10%
+[2024-06-12 20:53:42] Total Memory: 257572 MB, Used Memory: 15776 MB, Free Memory: 241796 MB
+[2024-06-12 20:53:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 20:53:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 21:43:54] CPU Usage: 1.57%
+[2024-06-12 21:43:54] Total Memory: 257572 MB, Used Memory: 20096 MB, Free Memory: 237476 MB
+[2024-06-12 21:43:54] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 21:43:54] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 21:44:04] CPU Usage: 0.97%
+[2024-06-12 21:44:04] Total Memory: 257572 MB, Used Memory: 20105 MB, Free Memory: 237466 MB
+[2024-06-12 21:44:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 21:44:04] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 21:44:14] CPU Usage: 0.90%
+[2024-06-12 21:44:14] Total Memory: 257572 MB, Used Memory: 20089 MB, Free Memory: 237482 MB
+[2024-06-12 21:44:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 21:44:14] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 21:44:24] CPU Usage: 0.94%
+[2024-06-12 21:44:24] Total Memory: 257572 MB, Used Memory: 20090 MB, Free Memory: 237481 MB
+[2024-06-12 21:44:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-12 21:44:24] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:10] CPU Usage: 1.47%
+[2024-06-13 13:29:10] Total Memory: 257572 MB, Used Memory: 15521 MB, Free Memory: 242051 MB
+[2024-06-13 13:29:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:20] CPU Usage: 0.11%
+[2024-06-13 13:29:20] Total Memory: 257572 MB, Used Memory: 15536 MB, Free Memory: 242036 MB
+[2024-06-13 13:29:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:30] CPU Usage: 0.12%
+[2024-06-13 13:29:30] Total Memory: 257572 MB, Used Memory: 15533 MB, Free Memory: 242039 MB
+[2024-06-13 13:29:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:30] CPU Usage: 1.47%
+[2024-06-13 13:29:30] Total Memory: 257572 MB, Used Memory: 15533 MB, Free Memory: 242038 MB
+[2024-06-13 13:29:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:40] CPU Usage: 0.15%
+[2024-06-13 13:29:40] Total Memory: 257572 MB, Used Memory: 15550 MB, Free Memory: 242022 MB
+[2024-06-13 13:29:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:40] CPU Usage: 0.15%
+[2024-06-13 13:29:40] Total Memory: 257572 MB, Used Memory: 15550 MB, Free Memory: 242022 MB
+[2024-06-13 13:29:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:42] CPU Usage: 1.47%
+[2024-06-13 13:29:42] Total Memory: 257572 MB, Used Memory: 15549 MB, Free Memory: 242022 MB
+[2024-06-13 13:29:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:50] CPU Usage: 0.18%
+[2024-06-13 13:29:50] Total Memory: 257572 MB, Used Memory: 15546 MB, Free Memory: 242025 MB
+[2024-06-13 13:29:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:50] CPU Usage: 0.18%
+[2024-06-13 13:29:50] Total Memory: 257572 MB, Used Memory: 15548 MB, Free Memory: 242024 MB
+[2024-06-13 13:29:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:52] CPU Usage: 0.19%
+[2024-06-13 13:29:52] Total Memory: 257572 MB, Used Memory: 15542 MB, Free Memory: 242030 MB
+[2024-06-13 13:29:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:58] CPU Usage: 1.47%
+[2024-06-13 13:29:58] Total Memory: 257572 MB, Used Memory: 15549 MB, Free Memory: 242023 MB
+[2024-06-13 13:29:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:29:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:00] CPU Usage: 0.18%
+[2024-06-13 13:30:00] Total Memory: 257572 MB, Used Memory: 15546 MB, Free Memory: 242026 MB
+[2024-06-13 13:30:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:00] CPU Usage: 0.18%
+[2024-06-13 13:30:00] Total Memory: 257572 MB, Used Memory: 15547 MB, Free Memory: 242025 MB
+[2024-06-13 13:30:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:02] CPU Usage: 0.19%
+[2024-06-13 13:30:02] Total Memory: 257572 MB, Used Memory: 15544 MB, Free Memory: 242027 MB
+[2024-06-13 13:30:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:08] CPU Usage: 0.21%
+[2024-06-13 13:30:08] Total Memory: 257572 MB, Used Memory: 15548 MB, Free Memory: 242023 MB
+[2024-06-13 13:30:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:10] CPU Usage: 0.21%
+[2024-06-13 13:30:10] Total Memory: 257572 MB, Used Memory: 15549 MB, Free Memory: 242023 MB
+[2024-06-13 13:30:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:10] CPU Usage: 0.21%
+[2024-06-13 13:30:10] Total Memory: 257572 MB, Used Memory: 15549 MB, Free Memory: 242022 MB
+[2024-06-13 13:30:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:12] CPU Usage: 0.21%
+[2024-06-13 13:30:12] Total Memory: 257572 MB, Used Memory: 15555 MB, Free Memory: 242017 MB
+[2024-06-13 13:30:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:17] CPU Usage: 1.47%
+[2024-06-13 13:30:17] Total Memory: 257572 MB, Used Memory: 15560 MB, Free Memory: 242012 MB
+[2024-06-13 13:30:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:18] CPU Usage: 0.19%
+[2024-06-13 13:30:18] Total Memory: 257572 MB, Used Memory: 15555 MB, Free Memory: 242017 MB
+[2024-06-13 13:30:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:20] CPU Usage: 0.19%
+[2024-06-13 13:30:20] Total Memory: 257572 MB, Used Memory: 15551 MB, Free Memory: 242020 MB
+[2024-06-13 13:30:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:20] CPU Usage: 0.19%
+[2024-06-13 13:30:20] Total Memory: 257572 MB, Used Memory: 15551 MB, Free Memory: 242020 MB
+[2024-06-13 13:30:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:22] CPU Usage: 0.18%
+[2024-06-13 13:30:22] Total Memory: 257572 MB, Used Memory: 15561 MB, Free Memory: 242011 MB
+[2024-06-13 13:30:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:27] CPU Usage: 0.19%
+[2024-06-13 13:30:27] Total Memory: 257572 MB, Used Memory: 15552 MB, Free Memory: 242019 MB
+[2024-06-13 13:30:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:28] CPU Usage: 0.19%
+[2024-06-13 13:30:28] Total Memory: 257572 MB, Used Memory: 15547 MB, Free Memory: 242025 MB
+[2024-06-13 13:30:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:30] CPU Usage: 0.19%
+[2024-06-13 13:30:30] Total Memory: 257572 MB, Used Memory: 15550 MB, Free Memory: 242021 MB
+[2024-06-13 13:30:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:30] CPU Usage: 0.20%
+[2024-06-13 13:30:30] Total Memory: 257572 MB, Used Memory: 15550 MB, Free Memory: 242021 MB
+[2024-06-13 13:30:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:32] CPU Usage: 0.19%
+[2024-06-13 13:30:32] Total Memory: 257572 MB, Used Memory: 15562 MB, Free Memory: 242009 MB
+[2024-06-13 13:30:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:37] CPU Usage: 0.21%
+[2024-06-13 13:30:37] Total Memory: 257572 MB, Used Memory: 15560 MB, Free Memory: 242011 MB
+[2024-06-13 13:30:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:38] CPU Usage: 0.21%
+[2024-06-13 13:30:38] Total Memory: 257572 MB, Used Memory: 15557 MB, Free Memory: 242014 MB
+[2024-06-13 13:30:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:40] CPU Usage: 0.23%
+[2024-06-13 13:30:40] Total Memory: 257572 MB, Used Memory: 15543 MB, Free Memory: 242028 MB
+[2024-06-13 13:30:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:40] CPU Usage: 0.23%
+[2024-06-13 13:30:40] Total Memory: 257572 MB, Used Memory: 15545 MB, Free Memory: 242027 MB
+[2024-06-13 13:30:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:42] CPU Usage: 0.24%
+[2024-06-13 13:30:42] Total Memory: 257572 MB, Used Memory: 15554 MB, Free Memory: 242018 MB
+[2024-06-13 13:30:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:47] CPU Usage: 0.21%
+[2024-06-13 13:30:47] Total Memory: 257572 MB, Used Memory: 15566 MB, Free Memory: 242006 MB
+[2024-06-13 13:30:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:48] CPU Usage: 1.47%
+[2024-06-13 13:30:48] Total Memory: 257572 MB, Used Memory: 15563 MB, Free Memory: 242008 MB
+[2024-06-13 13:30:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:48] CPU Usage: 0.21%
+[2024-06-13 13:30:48] Total Memory: 257572 MB, Used Memory: 15562 MB, Free Memory: 242009 MB
+[2024-06-13 13:30:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:50] CPU Usage: 0.21%
+[2024-06-13 13:30:50] Total Memory: 257572 MB, Used Memory: 15563 MB, Free Memory: 242009 MB
+[2024-06-13 13:30:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:50] CPU Usage: 0.21%
+[2024-06-13 13:30:50] Total Memory: 257572 MB, Used Memory: 15568 MB, Free Memory: 242004 MB
+[2024-06-13 13:30:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:52] CPU Usage: 0.20%
+[2024-06-13 13:30:52] Total Memory: 257572 MB, Used Memory: 15560 MB, Free Memory: 242011 MB
+[2024-06-13 13:30:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:57] CPU Usage: 0.21%
+[2024-06-13 13:30:57] Total Memory: 257572 MB, Used Memory: 15558 MB, Free Memory: 242014 MB
+[2024-06-13 13:30:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:58] CPU Usage: 0.20%
+[2024-06-13 13:30:58] Total Memory: 257572 MB, Used Memory: 15557 MB, Free Memory: 242015 MB
+[2024-06-13 13:30:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:58] CPU Usage: 0.21%
+[2024-06-13 13:30:58] Total Memory: 257572 MB, Used Memory: 15556 MB, Free Memory: 242015 MB
+[2024-06-13 13:30:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:30:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:00] CPU Usage: 0.21%
+[2024-06-13 13:31:00] Total Memory: 257572 MB, Used Memory: 15551 MB, Free Memory: 242020 MB
+[2024-06-13 13:31:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:00] CPU Usage: 0.20%
+[2024-06-13 13:31:00] Total Memory: 257572 MB, Used Memory: 15551 MB, Free Memory: 242020 MB
+[2024-06-13 13:31:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:02] CPU Usage: 0.21%
+[2024-06-13 13:31:02] Total Memory: 257572 MB, Used Memory: 15563 MB, Free Memory: 242008 MB
+[2024-06-13 13:31:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:07] CPU Usage: 0.22%
+[2024-06-13 13:31:07] Total Memory: 257572 MB, Used Memory: 15568 MB, Free Memory: 242004 MB
+[2024-06-13 13:31:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:08] CPU Usage: 0.22%
+[2024-06-13 13:31:08] Total Memory: 257572 MB, Used Memory: 15563 MB, Free Memory: 242008 MB
+[2024-06-13 13:31:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:08] CPU Usage: 0.22%
+[2024-06-13 13:31:08] Total Memory: 257572 MB, Used Memory: 15559 MB, Free Memory: 242012 MB
+[2024-06-13 13:31:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:10] CPU Usage: 0.22%
+[2024-06-13 13:31:10] Total Memory: 257572 MB, Used Memory: 15569 MB, Free Memory: 242002 MB
+[2024-06-13 13:31:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:10] CPU Usage: 0.22%
+[2024-06-13 13:31:10] Total Memory: 257572 MB, Used Memory: 15567 MB, Free Memory: 242004 MB
+[2024-06-13 13:31:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:12] CPU Usage: 0.22%
+[2024-06-13 13:31:12] Total Memory: 257572 MB, Used Memory: 15571 MB, Free Memory: 242001 MB
+[2024-06-13 13:31:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:17] CPU Usage: 0.21%
+[2024-06-13 13:31:17] Total Memory: 257572 MB, Used Memory: 15563 MB, Free Memory: 242009 MB
+[2024-06-13 13:31:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:18] CPU Usage: 0.21%
+[2024-06-13 13:31:18] Total Memory: 257572 MB, Used Memory: 15564 MB, Free Memory: 242008 MB
+[2024-06-13 13:31:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:18] CPU Usage: 0.22%
+[2024-06-13 13:31:18] Total Memory: 257572 MB, Used Memory: 15567 MB, Free Memory: 242004 MB
+[2024-06-13 13:31:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:20] CPU Usage: 0.21%
+[2024-06-13 13:31:20] Total Memory: 257572 MB, Used Memory: 15566 MB, Free Memory: 242006 MB
+[2024-06-13 13:31:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:20] CPU Usage: 0.21%
+[2024-06-13 13:31:20] Total Memory: 257572 MB, Used Memory: 15566 MB, Free Memory: 242005 MB
+[2024-06-13 13:31:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:22] CPU Usage: 0.21%
+[2024-06-13 13:31:22] Total Memory: 257572 MB, Used Memory: 15563 MB, Free Memory: 242008 MB
+[2024-06-13 13:31:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:27] CPU Usage: 0.21%
+[2024-06-13 13:31:27] Total Memory: 257572 MB, Used Memory: 15568 MB, Free Memory: 242003 MB
+[2024-06-13 13:31:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:28] CPU Usage: 0.21%
+[2024-06-13 13:31:28] Total Memory: 257572 MB, Used Memory: 15574 MB, Free Memory: 241998 MB
+[2024-06-13 13:31:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:28] CPU Usage: 0.21%
+[2024-06-13 13:31:28] Total Memory: 257572 MB, Used Memory: 15564 MB, Free Memory: 242007 MB
+[2024-06-13 13:31:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:30] CPU Usage: 0.21%
+[2024-06-13 13:31:30] Total Memory: 257572 MB, Used Memory: 15564 MB, Free Memory: 242007 MB
+[2024-06-13 13:31:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:30] CPU Usage: 0.21%
+[2024-06-13 13:31:30] Total Memory: 257572 MB, Used Memory: 15564 MB, Free Memory: 242007 MB
+[2024-06-13 13:31:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:30] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:32] CPU Usage: 0.22%
+[2024-06-13 13:31:32] Total Memory: 257572 MB, Used Memory: 15565 MB, Free Memory: 242006 MB
+[2024-06-13 13:31:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:32] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:37] CPU Usage: 0.22%
+[2024-06-13 13:31:37] Total Memory: 257572 MB, Used Memory: 15557 MB, Free Memory: 242015 MB
+[2024-06-13 13:31:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:37] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:38] CPU Usage: 0.21%
+[2024-06-13 13:31:38] Total Memory: 257572 MB, Used Memory: 15559 MB, Free Memory: 242013 MB
+[2024-06-13 13:31:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:38] CPU Usage: 0.21%
+[2024-06-13 13:31:38] Total Memory: 257572 MB, Used Memory: 15558 MB, Free Memory: 242013 MB
+[2024-06-13 13:31:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:38] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:40] CPU Usage: 0.22%
+[2024-06-13 13:31:40] Total Memory: 257572 MB, Used Memory: 15564 MB, Free Memory: 242007 MB
+[2024-06-13 13:31:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:40] CPU Usage: 0.22%
+[2024-06-13 13:31:40] Total Memory: 257572 MB, Used Memory: 15562 MB, Free Memory: 242009 MB
+[2024-06-13 13:31:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:40] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:42] CPU Usage: 0.21%
+[2024-06-13 13:31:42] Total Memory: 257572 MB, Used Memory: 15566 MB, Free Memory: 242006 MB
+[2024-06-13 13:31:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:42] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:47] CPU Usage: 0.22%
+[2024-06-13 13:31:47] Total Memory: 257572 MB, Used Memory: 15564 MB, Free Memory: 242007 MB
+[2024-06-13 13:31:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:47] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:48] CPU Usage: 0.21%
+[2024-06-13 13:31:48] Total Memory: 257572 MB, Used Memory: 15566 MB, Free Memory: 242006 MB
+[2024-06-13 13:31:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:48] CPU Usage: 0.22%
+[2024-06-13 13:31:48] Total Memory: 257572 MB, Used Memory: 15558 MB, Free Memory: 242013 MB
+[2024-06-13 13:31:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:48] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:50] CPU Usage: 0.21%
+[2024-06-13 13:31:50] Total Memory: 257572 MB, Used Memory: 15565 MB, Free Memory: 242007 MB
+[2024-06-13 13:31:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:50] CPU Usage: 0.21%
+[2024-06-13 13:31:50] Total Memory: 257572 MB, Used Memory: 15567 MB, Free Memory: 242005 MB
+[2024-06-13 13:31:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:50] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:52] CPU Usage: 0.21%
+[2024-06-13 13:31:52] Total Memory: 257572 MB, Used Memory: 15562 MB, Free Memory: 242010 MB
+[2024-06-13 13:31:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:52] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:57] CPU Usage: 0.21%
+[2024-06-13 13:31:57] Total Memory: 257572 MB, Used Memory: 15564 MB, Free Memory: 242007 MB
+[2024-06-13 13:31:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:57] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:58] CPU Usage: 0.21%
+[2024-06-13 13:31:58] Total Memory: 257572 MB, Used Memory: 15565 MB, Free Memory: 242006 MB
+[2024-06-13 13:31:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:58] CPU Usage: 0.21%
+[2024-06-13 13:31:58] Total Memory: 257572 MB, Used Memory: 15567 MB, Free Memory: 242004 MB
+[2024-06-13 13:31:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:31:58] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:00] CPU Usage: 0.21%
+[2024-06-13 13:32:00] Total Memory: 257572 MB, Used Memory: 15566 MB, Free Memory: 242005 MB
+[2024-06-13 13:32:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:00] CPU Usage: 0.21%
+[2024-06-13 13:32:00] Total Memory: 257572 MB, Used Memory: 15566 MB, Free Memory: 242005 MB
+[2024-06-13 13:32:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:00] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:02] CPU Usage: 0.21%
+[2024-06-13 13:32:02] Total Memory: 257572 MB, Used Memory: 15572 MB, Free Memory: 241999 MB
+[2024-06-13 13:32:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:02] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:07] CPU Usage: 0.36%
+[2024-06-13 13:32:07] Total Memory: 257572 MB, Used Memory: 15556 MB, Free Memory: 242016 MB
+[2024-06-13 13:32:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:07] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:08] CPU Usage: 0.36%
+[2024-06-13 13:32:08] Total Memory: 257572 MB, Used Memory: 15557 MB, Free Memory: 242015 MB
+[2024-06-13 13:32:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:08] CPU Usage: 0.36%
+[2024-06-13 13:32:08] Total Memory: 257572 MB, Used Memory: 15559 MB, Free Memory: 242013 MB
+[2024-06-13 13:32:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:08] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:10] CPU Usage: 0.36%
+[2024-06-13 13:32:10] Total Memory: 257572 MB, Used Memory: 15565 MB, Free Memory: 242006 MB
+[2024-06-13 13:32:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:10] CPU Usage: 0.36%
+[2024-06-13 13:32:10] Total Memory: 257572 MB, Used Memory: 15563 MB, Free Memory: 242008 MB
+[2024-06-13 13:32:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:10] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:12] CPU Usage: 0.37%
+[2024-06-13 13:32:12] Total Memory: 257572 MB, Used Memory: 15562 MB, Free Memory: 242009 MB
+[2024-06-13 13:32:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:12] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:17] CPU Usage: 0.22%
+[2024-06-13 13:32:17] Total Memory: 257572 MB, Used Memory: 15556 MB, Free Memory: 242015 MB
+[2024-06-13 13:32:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:17] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:18] CPU Usage: 0.22%
+[2024-06-13 13:32:18] Total Memory: 257572 MB, Used Memory: 15560 MB, Free Memory: 242012 MB
+[2024-06-13 13:32:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:18] CPU Usage: 0.22%
+[2024-06-13 13:32:18] Total Memory: 257572 MB, Used Memory: 15563 MB, Free Memory: 242008 MB
+[2024-06-13 13:32:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:18] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:20] CPU Usage: 0.22%
+[2024-06-13 13:32:20] Total Memory: 257572 MB, Used Memory: 15564 MB, Free Memory: 242007 MB
+[2024-06-13 13:32:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:20] CPU Usage: 0.21%
+[2024-06-13 13:32:20] Total Memory: 257572 MB, Used Memory: 15564 MB, Free Memory: 242007 MB
+[2024-06-13 13:32:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:20] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:22] CPU Usage: 0.21%
+[2024-06-13 13:32:22] Total Memory: 257572 MB, Used Memory: 15570 MB, Free Memory: 242001 MB
+[2024-06-13 13:32:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:22] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:27] CPU Usage: 0.22%
+[2024-06-13 13:32:27] Total Memory: 257572 MB, Used Memory: 15557 MB, Free Memory: 242015 MB
+[2024-06-13 13:32:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:27] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:28] CPU Usage: 0.23%
+[2024-06-13 13:32:28] Total Memory: 257572 MB, Used Memory: 15559 MB, Free Memory: 242012 MB
+[2024-06-13 13:32:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:28] CPU Usage: 0.23%
+[2024-06-13 13:32:28] Total Memory: 257572 MB, Used Memory: 15561 MB, Free Memory: 242010 MB
+[2024-06-13 13:32:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB
+[2024-06-13 13:32:28] Device: nvme0n1p1,Total: 510 MB, Used: 14 MB, Free: 496 MB

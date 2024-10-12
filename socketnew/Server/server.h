@@ -24,11 +24,23 @@
 #include "threadpool.h"
 #define PORT 5555
 
+#define MAX_LINE_LENGTH 100
 
+#define MAX_THREADS 20
+
+// 数据库连接相关
 MYSQL *conn_ptr;
 MYSQL_RES *res_ptr;
 MYSQL_ROW sqlrow;
 unsigned int timeout = 7; //超时时间7秒
+
+const char *host;
+const char *username;
+const char *passwd;
+const char *db_name;
+unsigned int port;
+
+
 
 //新增
 threadpool_t pool;
@@ -83,6 +95,16 @@ void *handle_client(void *arg); //接收客户端发送的信息
 
 void deserialize_system_info(char *buffer, int length, SystemInfo *info);//// 将字节流解析为结构体数据
 
-int decrypt(char *ciphertext, int ciphertext_len, char *plaintext);//解密
- 
+int decrypt(char *ciphertext, int ciphertext_len, char **plaintext);//解密
+
+int insert_system_info(SystemInfo *info,struct in_addr sin_addr);// 插入监控信息
+
+int insert_cpu_usage(SystemInfo *info);// 插入CPU资源信息
+
+int insert_memory_usage(SystemInfo *info,struct in_addr sin_addr);// 插入内存资源信息
+
+int insert_disk_usage(SystemInfo info,char *hostnameStr, long long int timestamp);//插入磁盘资源信息
+
+void read_config_file(const char *filename);
+
 #endif

@@ -226,10 +226,10 @@ void write_log(const char *log_file, const char *message) {
     fclose(fp);
 }
 
-int encrypt(char *plaintext, int plaintext_len, char *ciphertext) {
+int encrypt(char *plaintext, int plaintext_len, char **ciphertext) {
     
     int ciphertext_len = plaintext_len;
-    ciphertext = plaintext;
+    *ciphertext = plaintext;
 
     //加操作...
 
@@ -332,12 +332,12 @@ int main() {
         serialize_system_info(&system_info, buffer, &buffer_length);
 
         //数据加密
-        char ciphertext[1024];
-        int ciphertext_len =  encrypt(buffer, buffer_length, ciphertext);
+         char *ciphertext;
+         int ciphertext_len =  encrypt(buffer, buffer_length, &ciphertext);
 
 
         // 发送数据到服务器
-        if (send(client_socket, buffer, ciphertext_len, 0) == -1) {
+        if (send(client_socket, ciphertext, ciphertext_len, 0) == -1) {
             perror("Send failed");
             exit(EXIT_FAILURE);
         }

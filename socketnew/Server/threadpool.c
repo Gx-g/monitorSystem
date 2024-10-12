@@ -1,8 +1,6 @@
 #include "threadpool.h"                                                                        
 
 /*
-作者：周超
-日期：2019.3.30
 描述：线程池中的工作线程调用函数
 参数：线程池结构体变量
 返回值：无
@@ -97,8 +95,6 @@ void *thread_routine(void *arg)
 
 
 /*
-作者：周超
-日期：2019.3.30
 描述：线程池中初始化
 参数：线程池结构体变量，最大线程数
 返回值：无
@@ -115,8 +111,6 @@ void threadpool_init(threadpool_t *pool, int max_threads)
 }
 
 /*
-作者：周超
-日期：2019.3.30
 描述：增加一个任务到任务队列中并将它分配给线程或等待分配给线程
 参数：线程池结构体变量，指向void *类型的函数指针(任务)，函数参数(任务参数)
 返回值：整型
@@ -167,8 +161,7 @@ int threadpool_add_task(threadpool_t *pool, void *(*run)(void *arg), void *arg)
 
 
 /*
-作者：周超
-日期：2019.3.30
+
 描述：销毁线程池
 参数：线程池结构体变量
 返回值：无

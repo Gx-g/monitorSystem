@@ -32,15 +32,16 @@ void deserialize_system_info(char *buffer, int length, SystemInfo *info) {
     // offset += sizeof(struct in_addr);
 }
 
-int decrypt(char *ciphertext, int ciphertext_len, char *plaintext){
+// 解密
+int decrypt(char *ciphertext, int ciphertext_len, char **plaintext){
     int plaintext_len = ciphertext_len;    
-    plaintext = ciphertext;
+    *plaintext = ciphertext;
 
     //解密操作...
 
     return plaintext_len;
 }
-
+// 处理客户端请求
 void *handle_client(void *arg) {
 
     Args args = *((Args *)arg);
@@ -74,72 +75,121 @@ void *handle_client(void *arg) {
         //void * nowbuffer = malloc(valread);
 
         //数据解密
-        char plaintext[1024]={0};
-        int plaintext_len =  decrypt(buffer, valread, plaintext);
-        printf("79接受到的字节数：%d",plaintext_len);
+        char *plaintext;
+        int plaintext_len =  decrypt(buffer, valread, &plaintext);
+        // printf("79接受到的字节数：%d",plaintext_len);
 
         //反序列化
-        deserialize_system_info(buffer, valread, &system_info);
+        deserialize_system_info(plaintext, plaintext_len, &system_info);
         //free(nowbuffer);
 
         //插入系统信息sql语句
-        char system_info_sql[200];
-        int used = system_info.used_mem;
-        int total = system_info.total_mem;
-        double dused= (double)used;
-        double dtotal=(double)total;
-        printf("int leixing %d %d double leixing %.2f %.2f",used,total,dused,dtotal);
-        double mem_pre =  (dused)/(dtotal);
-        printf("mem_pre : %.2f \n",mem_pre);
+        // char system_info_sql[200];
+        // int used = system_info.used_mem;
+        // int total = system_info.total_mem;
+        // double dused= (double)used;
+        // double dtotal=(double)total;
+        // printf("int leixing %d %d double leixing %.2f %.2f",used,total,dused,dtotal);
+        // double mem_pre =  (dused)/(dtotal);
+        // printf("mem_pre : %.2f \n",mem_pre);
         char time_str1[20];
         strftime(time_str1, sizeof(time_str1), "%Y-%m-%d %H:%M:%S", localtime(&system_info.timestamp));
-        sprintf(system_info_sql, "insert into `app01_systeminfo` (`HOST_NAME`,`CPU_PER`,`MEM_PER`,`CREATE_TIME`,`STATE`,`REMARK`) values ('%s',%.2f,%.2f,'%s','1','test');",inet_ntoa(sin_addr), system_info.cpu_usage, mem_pre, time_str1 );
-        printf("system_info_sql %s\n",system_info_sql);
-         // 插入新的数据实例
-        if (mysql_query(conn_ptr, system_info_sql) != 0) {
-            fprintf(stderr, "插入MySQL失败！\n");
-            //exit(1);
-        } else {
-            fprintf(stdout, "插入MySQL成功！\n");
-            //printf("插入成功");
-        }
+
+
+        // sprintf(system_info_sql, "insert into `app01_systeminfo` (`HOST_NAME`,`CPU_PER`,`MEM_PER`,`CREATE_TIME`,`STATE`,`REMARK`) values ('%s',%.2f,%.2f,'%s','1','test');",inet_ntoa(sin_addr), system_info.cpu_usage, mem_pre, time_str1 );
+        // printf("system_info_sql %s\n",system_info_sql);
+        //  // 插入新的数据实例
+        // if (mysql_query(conn_ptr, system_info_sql) != 0) {
+        //     fprintf(stderr, "插入MySQL失败！\n");
+        //     //exit(1);
+        // } else {
+        //     fprintf(stdout, "插入MySQL成功！\n");
+        //     //printf("插入成功");
+        // }
+
+
         // 释放结果集
         //mysql_free_result(result);
         //inet_ntoa(sin_addr)
         //system_info.timestamp 
 
 
-        //插入内存信息sql语句
-        char mem_info_sql[200];
-        sprintf(mem_info_sql, "insert into `app01_memstate` (`HOST_NAME`,`TOTAL`,`USED`,`FREE`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s', '%llu','%llu','%llu',%.2f,'%ld','%s');",inet_ntoa(sin_addr), system_info.total_mem, system_info.used_mem, system_info.free_mem, mem_pre, system_info.timestamp, time_str1);
-        printf("mem_info_sql %s\n",mem_info_sql);
-         // 插入新的数据实例
-        if (mysql_query(conn_ptr, mem_info_sql) != 0) {
-            fprintf(stderr, "插入内存信息失败！\n");
-            //exit(1);
-        } else {
-            fprintf(stdout, "插入内存信息成功！\n");
-            //printf("插入成功");
-        }
+        // //插入内存信息sql语句
+        // char mem_info_sql[200];
+        // sprintf(mem_info_sql, "insert into `app01_memstate` (`HOST_NAME`,`TOTAL`,`USED`,`FREE`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s', '%llu','%llu','%llu',%.2f,'%ld','%s');",inet_ntoa(sin_addr), system_info.total_mem, system_info.used_mem, system_info.free_mem, mem_pre, system_info.timestamp, time_str1);
+        // printf("mem_info_sql %s\n",mem_info_sql);
+        //  // 插入新的数据实例
+        // if (mysql_query(conn_ptr, mem_info_sql) != 0) {
+        //     fprintf(stderr, "插入内存信息失败！\n");
+        //     //exit(1);
+        // } else {
+        //     fprintf(stdout, "插入内存信息成功！\n");
+        //     //printf("插入成功");
+        // }
          
-        char disk_message[100];
-        DiskInfo *disk_infos = system_info.disks;
-        for (int i = 0; i < system_info.num_disks; i++) {
-            //插入磁盘信息sql语句
-            double disk_pre = (double)disk_infos[i].used_size / (double)disk_infos[i].total_size;
-            char disk_info_sql[200];
-            sprintf(disk_info_sql, "insert into `app01_diskstate` (`HOST_NAME`,`DISK_Name`,`SIZE`,`USED`,`AVAIL`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s', '%s', '%llu', '%llu', '%llu', %.2f,'%ld','%s');",inet_ntoa(sin_addr), disk_infos[i].disk_name, disk_infos[i].total_size, disk_infos[i].used_size, disk_infos[i].free_size, disk_pre,system_info.timestamp, time_str1);
-            printf("disk_info_sql %s\n",disk_info_sql);
-             // 插入新的数据实例
-            if (mysql_query(conn_ptr, disk_info_sql) != 0) {
-                fprintf(stderr, "插入磁盘信息失败！%d/%d\n",i,system_info.num_disks);
-                //exit(1);
-            } else {
-                fprintf(stdout, "插入磁盘信息成功！%d/%d\n",i,system_info.num_disks);
-                //printf("插入成功");
-            }
+        // char disk_message[100];
+        // DiskInfo *disk_infos = system_info.disks;
+        // for (int i = 0; i < system_info.num_disks; i++) {
+        //     //插入磁盘信息sql语句
+        //     double disk_pre = (double)disk_infos[i].used_size / (double)disk_infos[i].total_size;
+        //     char disk_info_sql[200];
+        //     sprintf(disk_info_sql, "insert into `app01_diskstate` (`HOST_NAME`,`DISK_Name`,`SIZE`,`USED`,`AVAIL`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s', '%s', '%llu', '%llu', '%llu', %.2f,'%ld','%s');",inet_ntoa(sin_addr), disk_infos[i].disk_name, disk_infos[i].total_size, disk_infos[i].used_size, disk_infos[i].free_size, disk_pre,system_info.timestamp, time_str1);
+        //     printf("disk_info_sql %s\n",disk_info_sql);
+        //      // 插入新的数据实例
+        //     if (mysql_query(conn_ptr, disk_info_sql) != 0) {
+        //         fprintf(stderr, "插入磁盘信息失败！%d/%d\n",i,system_info.num_disks);
+        //         //exit(1);
+        //     } else {
+        //         fprintf(stdout, "插入磁盘信息成功！%d/%d\n",i,system_info.num_disks);
+        //         //printf("插入成功");
+        //     }
+        // }
+        // 插入监控信息
+        int result = insert_system_info(&system_info,sin_addr);
+        if (result==0)
+        {
+            fprintf(stdout, "插入MySQL成功！\n");
+        }else{
+            fprintf(stderr, "插入MySQL失败！\n");
+        }
+        
+        // 插入监控信息
+        result = insert_cpu_usage(&system_info);
+        if (result==0)
+        {
+            fprintf(stdout, "插入CPU信息成功！\n");
+        }else{
+            fprintf(stderr, "插入CPU信息失败！\n");
         }
 
+        // 插入监控信息
+        result = insert_memory_usage(&system_info,sin_addr);
+        if (result==0)
+        {
+            fprintf(stdout, "插入内存资源信息成功！\n");
+        }else{
+            fprintf(stderr, "插入内存资源信息失败！\n");
+        }
+        // char disk_info_sql[512];
+        
+        //sprintf(disk_info_sql, "insert into `app01_diskstate` (`HOST_NAME`,`DISK_Name`,`SIZE`,`USED`,`AVAIL`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s');",inet_ntoa(sin_addr));
+        // 插入监控信息
+       char *hostname = inet_ntoa(sin_addr);
+       printf("zc***********************hostnameStr %s\n",hostname);
+       //sprintf(disk_info_sql, "insert into `app01_diskstate` (`HOST_NAME`,`DISK_Name`,`SIZE`,`USED`,`AVAIL`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s');",hostnameStr);
+    //sprintf(disk_info_sql, "insert into `app01_diskstate` (`HOST_NAME`,`DISK_Name`,`SIZE`,`USED`,`AVAIL`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s', '%s', '%llu', '%llu', '%llu', %.2f,'%ld','%s');",hostnameStr, "test1",0, 0, 0, 0,system_info.timestamp, "time_str1");
+        long long int timestamp = system_info.timestamp;
+        printf("zc***********************timestamp %lld\n",timestamp);
+        // sprintf(disk_info_sql, "insert into `app01_diskstate` (`HOST_NAME`,`DISK_Name`,`SIZE`,`USED`,`AVAIL`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s', '%s', '%llu', '%llu', '%llu', '%.2f','%lld','%s');",hostname, "yt", 0, 0, 0, 0,1024, time_str1);
+        // sprintf(disk_info_sql, "insert into `app01_diskstate` (`HOST_NAME`,`DISK_Name`,`SIZE`,`USED`,`AVAIL`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s', '%s', '%llu', '%llu', '%llu', '%.2f''%lld','%s');",hostname, "disk_name", 1024, 512, 512, 0.50, timestamp, time_str1);
+        // printf("***********************disk_info_sql %s\n",disk_info_sql);
+        result = insert_disk_usage(system_info, hostname, timestamp);
+        if (result==0)
+        {
+            fprintf(stdout, "插入磁盘资源信息成功！\n");
+        }else{
+            fprintf(stderr, "插入磁盘资源信息失败！\n");
+        }
 
         // 打印接收到的信息
         printf("Client IP: %s\n", inet_ntoa(sin_addr));
@@ -176,7 +226,6 @@ void *handle_client(void *arg) {
 /*
 描述:设置IO为非阻塞模式
 参数:代表服务器与客户端建立连接通道的套接字或者服务器监听套接字
-返回值:整型
 */
 int setnonblocking(int sockfd){
 	int ret = 0;
@@ -187,7 +236,6 @@ int setnonblocking(int sockfd){
 /*
 描述:添加新的事件到内核事件列表中
 参数:代表服务器与客户端建立连接通道的套接字或者服务器监听套接字
-返回值:无
 */
 void addfd(int epollfd, int fd){
 	int ret = 0;
@@ -207,7 +255,6 @@ void addfd(int epollfd, int fd){
 /*
 描述:接受客户端建立连接的请求
 参数:代表服务器与客户端建立连接通道的套接字
-返回值:无
 */
 void Serveraccept(){
 	int len = sizeof(client_addr);
@@ -217,7 +264,7 @@ void Serveraccept(){
 	int clientfd = 0;
 
 	//初始化线程池，最多20个线程
-    threadpool_init(&pool, 20); 
+    threadpool_init(&pool, MAX_THREADS); 
 	
 	while(1)
     {
@@ -251,8 +298,7 @@ void Serveraccept(){
 				printf("Now there are %d client!\n\n",clientcount);
 
             }
-            //客户端唤醒,处理用户发来的消息
-            else
+            else//客户端唤醒,处理用户发来的消息
             {   
                 args.fp = &events[i].data.fd;
                 args.sin_addr = client_addr.sin_addr;
@@ -265,8 +311,47 @@ void Serveraccept(){
 
 }
 
+
+//读配置文件
+void read_config_file(const char *filename) {
+    printf("~~~~~~~~~~~~~~~~~~~~~~~~");
+    FILE *file = fopen(filename, "r");
+    if (file == NULL) {
+        perror("Error opening file");
+        exit(EXIT_FAILURE);
+    }
+
+    char line[MAX_LINE_LENGTH];
+    char key[MAX_LINE_LENGTH];
+    char value[MAX_LINE_LENGTH];
+
+    // 逐行读取配置文件
+    while (fgets(line, sizeof(line), file) != NULL) {
+        // 解析每一行，以等号分隔键值对
+        if (sscanf(line, "%[^=]=%s", key, value) == 2) {
+            // 去除键和值两端的空格
+            char *trimmed_key = strtok(key, " \t\n");
+            char *trimmed_value = strtok(value, " \t\n");
+
+            // 根据键名赋值给对应的全局变量
+            if (strcmp(trimmed_key, "host") == 0) {
+                strcpy(host, trimmed_value);
+                printf("~~~~~~~~~~~~~%s\n",host);
+            } else if (strcmp(trimmed_key, "port") == 0) {
+                port = atoi(trimmed_value);
+                printf("~~~~~~~~~~~~~%lu\n",port);
+            } 
+        }
+    }
+
+    fclose(file);
+}
+
 //数据库
 void init_mysql(){
+
+    //读数据库配置文件
+    //read_config_file("my.properties");
     int ret = 0;
     int first_row = 1;
     conn_ptr = mysql_init(NULL); //初始化
@@ -281,7 +366,7 @@ void init_mysql(){
     {
         printf("Options Set ERRO!\n");
     }
-    conn_ptr = mysql_real_connect(conn_ptr, "10.5.150.102", "root", "123456", "monitor", 3306, NULL, 0); //连接MySQL testdb数据库，端口为3306
+    conn_ptr = mysql_real_connect(conn_ptr, "10.5.150.102", "root", "123456", "monitor", 3306, NULL, 0); //连接MySQL 端口为3306
     if (conn_ptr)
     {
         printf("Connection Succeed!\n");
@@ -297,13 +382,104 @@ void init_mysql(){
         return -2;
     }
 }
+int insert_disk_usage(SystemInfo system_info,char *hostname, long long int timestamp){
+    //SystemInfo system_info =  (SystemInfo)*info;
+    DiskInfo *disk_infos = system_info.disks;
+    char time_str1[20];
+    strftime(time_str1, sizeof(time_str1), "%Y-%m-%d %H:%M:%S", localtime(&(system_info.timestamp)));
 
+    double disk_pre = 0;
+    char disk_info_sql[512];
+    
+    for (int i = 0; i < system_info.num_disks; i++) {
+        //插入磁盘信息sql语句
+        disk_pre = (double)disk_infos[i].used_size / (double)disk_infos[i].total_size;
+        //sprintf(disk_info_sql, "insert into `app01_diskstate` (`HOST_NAME`,`DISK_Name`,`SIZE`,`USED`,`AVAIL`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s', '%s', '%llu', '%llu', '%llu', %.2f,'%ld','%s');",hostname, "test1",0, 0, 0, disk_pre,system_info.timestamp, time_str1);
+        sprintf(disk_info_sql, "insert into `app01_diskstate` (`HOST_NAME`,`DISK_Name`,`SIZE`,`USED`,`AVAIL`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s', '%s', '%llu', '%llu', '%llu', %.2f, '%ld','%s');",hostname, disk_infos[i].disk_name, disk_infos[i].total_size, disk_infos[i].used_size, disk_infos[i].free_size, disk_pre, timestamp, time_str1);
+        printf("zc***********************%s\n",disk_info_sql);
+        //sprintf(disk_info_sql, "insert into `app01_diskstate` (`HOST_NAME`,`DISK_Name`,`SIZE`,`USED`,`AVAIL`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s', '%s', '%llu', '%llu', '%llu', %.2f,'%ld','%s');",hostname, disk_infos[i].disk_name, disk_infos[i].total_size, disk_infos[i].used_size, disk_infos[i].free_size, disk_pre,system_info.timestamp, time_str1);
+        // printf("disk_info_sql %s\n",disk_info_sql);
+        // 插入新的数据实例
+        if (mysql_query(conn_ptr, disk_info_sql) != 0) {
+            fprintf(stderr, "插入磁盘信息失败！%d/%d\n",i,system_info.num_disks);
+            //exit(1);
+        } else {
+            fprintf(stdout, "插入磁盘信息成功！%d/%d\n",i,system_info.num_disks);
+            //printf("插入成功");
+        }
+        memset(disk_info_sql,0,sizeof(disk_info_sql));
+    }   
+    return 0;
+}
+
+int insert_cpu_usage(SystemInfo *info){
+    SystemInfo system_info =  (SystemInfo)*info;
+    return 0;
+
+}
+
+//插入内存信息
+int insert_memory_usage(SystemInfo *info,struct in_addr sin_addr){
+    
+
+    SystemInfo system_info =  (SystemInfo)*info;
+        int used = system_info.used_mem;
+        int total = system_info.total_mem;
+        double dused= (double)used;
+        double dtotal=(double)total;
+        printf("int leixing %d %d double leixing %.2f %.2f",used,total,dused,dtotal);
+        double mem_pre =  (dused)/(dtotal);
+        printf("mem_pre : %.2f \n",mem_pre);
+        char mem_info_sql[200];
+        char time_str1[20];
+        strftime(time_str1, sizeof(time_str1), "%Y-%m-%d %H:%M:%S", localtime(&system_info.timestamp));
+        sprintf(mem_info_sql, "insert into `app01_memstate` (`HOST_NAME`,`TOTAL`,`USED`,`FREE`,`USE_PER`,`DATE_STR`,`CREATE_TIME`) values ('%s', '%llu','%llu','%llu',%.2f,'%ld','%s');",inet_ntoa(sin_addr), system_info.total_mem, system_info.used_mem, system_info.free_mem, mem_pre, system_info.timestamp, time_str1);
+        printf("mem_info_sql %s\n",mem_info_sql);
+         // 插入新的数据实例
+        if (mysql_query(conn_ptr, mem_info_sql) != 0) {
+            fprintf(stderr, "插入内存信息失败！\n");
+            return -1;
+            //exit(1);
+        } else {
+            fprintf(stdout, "插入内存信息成功！\n");
+            return 0;
+            //printf("插入成功");
+        }
+         
+    return 0;
+}
+ //插入系统信息
+int insert_system_info(SystemInfo *info,struct in_addr sin_addr){
+        SystemInfo system_info =  (SystemInfo)*info;
+    
+        char system_info_sql[200];
+        int used = system_info.used_mem;
+        int total = system_info.total_mem;
+        double dused= (double)used;
+        double dtotal=(double)total;
+        printf("int leixing %d %d double leixing %.2f %.2f",used,total,dused,dtotal);
+        double mem_pre =  (dused)/(dtotal);
+        printf("mem_pre : %.2f \n",mem_pre);
+        char time_str1[20];
+        strftime(time_str1, sizeof(time_str1), "%Y-%m-%d %H:%M:%S", localtime(&system_info.timestamp));
+        sprintf(system_info_sql, "insert into `app01_systeminfo` (`HOST_NAME`,`CPU_PER`,`MEM_PER`,`CREATE_TIME`,`STATE`,`REMARK`) values ('%s',%.2f,%.2f,'%s','1','test');",inet_ntoa(sin_addr), system_info.cpu_usage, mem_pre, time_str1 );
+        printf("system_info_sql %s\n",system_info_sql);
+         // 插入新的数据实例
+        if (mysql_query(conn_ptr, system_info_sql) != 0) {
+            
+            fprintf(stderr, "插入MySQL失败！\n");
+            return -1;
+            //exit(1);
+        } else {
+            fprintf(stdout, "插入MySQL成功！\n");
+            return 0;
+            //printf("插入成功");
+        }
+}
 int main() {
 
 
     init_mysql();
-
-
 
     //int server_socket;
     struct sockaddr_in server_address, client_address;
